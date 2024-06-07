@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer objectverwijzing"
+    id="id-e7db70f57a964b8282d60f11a4ca9961"
+    documentation="Zorg dat in de metadata een verwijzing naar de digitale representatie van het object staat, als dat technisch en auteursrechtelijk mogelijk is."/>

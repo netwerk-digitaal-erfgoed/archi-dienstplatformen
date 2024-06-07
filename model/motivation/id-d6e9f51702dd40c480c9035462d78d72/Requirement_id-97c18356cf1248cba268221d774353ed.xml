@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer in webpagina"
+    id="id-97c18356cf1248cba268221d774353ed"
+    documentation="Zorg dat de metadata als JSON-LD en volgens Schema.org gepubliceerd worden in webpagina’s. Zo kunnen zoekmachines de metadata verwerken en vindbaar maken voor gebruikers."/>

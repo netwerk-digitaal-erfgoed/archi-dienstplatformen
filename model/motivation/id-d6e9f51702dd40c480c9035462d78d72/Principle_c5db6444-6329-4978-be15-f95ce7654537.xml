@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg dat erfgoedinformatie verwijsbaar is"
+    id="c5db6444-6329-4978-be15-f95ce7654537"
+    documentation="Erfgoedinformatie is verwijsbaar wanneer er relaties tussen deze en andere erfgoedinformatie kunnen worden gelegd. Gebruikers moeten dat kunnen doen om bestaande data via verwijzingen te hergebruiken of te verrijken.">
+  <properties
+      key="Rationale"
+      value="Verwijzingen van derden kunnen contextinformatie opleveren die helpt te bepalen of de erfgoedinformatie bruikbaar is. Zie operationeel doel 2).&lt;br/>Door erfgoedinformatie verwijsbaar te maken en te houden, kunnen anderen ernaar verwijzen en kan de erfgoedinformatie eenvoudiger worden gevonden. Zie operationeel doel 1.&lt;br/>Door erfgoedinformatie verwijsbaar te maken, kunnen anderen er informatie aan toevoegen. Zie operationeel doel 3."/>
+  <properties
+      key="Uitspraak"
+      value="Zorg dat erfgoedinformatie verwijsbaar is"/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="6"/>
+</archimate:Principle>

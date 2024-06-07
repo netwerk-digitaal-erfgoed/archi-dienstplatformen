@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer herkomst"
+    id="id-2ec251a4f69948e9958acf0d0ee0a49a"
+    documentation="Zorg dat informatie over de herkomst van de metadata wordt gepubliceerd, zoals de maker en uitgever."/>

@@ -1,0 +1,16 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlener voor creëren met datasets"
+    id="id-a93ae98676284e029e35040be21471a9"
+    documentation="Biedt een dienst gericht op het creëren van apps of verrijkte datasets op basis van erfgoeddata.">
+  <properties
+      key="Begrippenlijst"
+      value="Nee"/>
+  <properties
+      key="Spellingvarianten"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Bron"
+      value="Gedragsprofielen Digitaal Erfgoed - Functionele specificaties, versie 1.0, juni 2021"/>
+</archimate:BusinessRole>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M2M-interactie (copy)"
+    id="id-97fd11a3e4bf40bfbeb70590f46f7e5a"
+    documentation="Het bieden van machine-machine-interactie (zoals API’s) voor het raadplegen van erfgoedinformatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer netwerkvoorziening"
+    id="fd13aa14-e6b9-4aee-88dc-5b5cf8b32fd1"
+    documentation="Zorgdragen dat netwerkvoorzieningen voldoen aan functionele en niet-functionele requirements (zie ook het hoofdstuk [[Diensten]]). De netwerkvoorzieningen ondersteunen de informatieuitwisseling tussen bronhouders en dienstverleners. De bronhouders en dienstverleners moeten daarom de eisen formuleren waaraan de netwerkvoorzieningen moeten voldoen om hen in staat te stellen diensten te leveren.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

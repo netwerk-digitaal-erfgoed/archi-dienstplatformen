@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiting"
+    id="id-3bc8103a-d379-49e6-a91e-0122cde97055"
+    documentation="Zorgdragen dat erfgoedinformatie bruikbaar en zichtbaar is, rekening houdend met de behoeften van de doelgroepen die de dienstverlener bedient.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="ontsluiting"/>
+  <properties
+      key="Type"
+      value="DERA-keten"/>
+</archimate:BusinessFunction>

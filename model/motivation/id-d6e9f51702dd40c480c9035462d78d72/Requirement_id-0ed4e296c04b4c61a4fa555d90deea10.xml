@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorzoekbaar via zoekingang"
+    id="id-0ed4e296c04b4c61a4fa555d90deea10"
+    documentation="De datasets zijn, indien mogelijk, doorzoekbaar via een zoekingang, een SPARQL- of Triple Pattern Fragments-endpoint.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

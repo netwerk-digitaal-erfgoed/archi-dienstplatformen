@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatie metadata van datasets"
+    id="id-6ab0c7c4-6825-4730-ab20-a8d2c3d0ff95"
+    documentation="Zorgdragen dat de metadata van datasets toegankelijk worden gemaakt voor afnemers.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Termennetwerk"
+    id="id-fa5a139f8838417a9cbdbdf35183cbf3"
+    documentation="Het Termennetwerk ([https://netwerkdigitaalerfgoed.nl/activiteiten/termennetwerk/]) (implementatie van de dienst ‘Vindbare termen’) zoekt in alle terminologiebronnen die als linked open data in het Netwerk Digitaal Erfgoed beschikbaar zijn. Het zoeken wordt aangestuurd door de metadataopnamepunten, die onderdeel zijn van bijvoorbeeld een collectiebeheersysteem of contentmanagementsysteem. Zie ook de beschrijving van het architectuurpatroon [[Vindbaar maken van gestandaardiseerde termen]]."/>

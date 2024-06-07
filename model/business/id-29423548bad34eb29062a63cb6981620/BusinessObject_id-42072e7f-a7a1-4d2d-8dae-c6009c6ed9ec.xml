@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erfgoedinformatie"
+    id="id-42072e7f-a7a1-4d2d-8dae-c6009c6ed9ec"
+    documentation="De totale informatieruimte die betrekking heeft op cultuurhistorische objecten.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="erfgoedinformatie"/>
+  <properties
+      key="Toelichting"
+      value="Erfgoedinformatie betreft in de context van DERA altijd informatie die digitaal beschikbaar is. Digitale erfgoedinformatie wordt door bronhouders online beschikbaar gesteld als (deel)verzameling (collectie) of als een op zich zelf staande entiteit (object)."/>
+  <properties
+      key="Synoniem"
+      value="Digitale erfgoedinformatie"/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Digital born erfgoed"
+    id="id-304fe5cc-312e-4618-a2e9-53fd07a862b3"
+    documentation="Erfgoedmateriaal dat van origine al digitaal is, zoals elektronische archieven, digitale kunst of foto’s die met een digitale camera zijn gemaakt.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Synoniem"
+      value="Digital born informatieobject"/>
+  <properties
+      key="Spellingvarianten"
+      value="digital born informatieobject, digital born informatieobjecten, digital born erfgoed"/>
+  <properties
+      key="Toelichting"
+      value="Digital born erfgoed kan dus een cultuurhistorisch object (digitale kunst) zijn of een informatieobject (elektronisch archief) waaraan cultuurhistorische waarde wordt toegekend."/>
+  <properties
+      key="Voorbeelden"
+      value="digitale kunst, elektronisch archief"/>
+  <properties
+      key="Bron"
+      value="Ontleend aan het ABC Digitaal Erfgoed van DEN"/>
+</archimate:BusinessObject>

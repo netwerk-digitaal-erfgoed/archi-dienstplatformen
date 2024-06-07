@@ -1,0 +1,15 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Samenwerkingsverband"
+    id="id-2249a47929be4e5295beb663ce0242b4"
+    documentation="Een samenwerkingsverband bestaat uit meerdere actoren die een gezamenlijk doel nastreven op het gebied van erfgoedinformatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Voorbeelden zijn consortia zoals Van Gogh Worldwide en netwerkorganisaties zoals het Netwerk Oorlogsbronnen."/>
+  <properties
+      key="Spellingvarianten"
+      value="samenwerkingsverband, Samenwerkingsveranden, samenwerkingsverbanden"/>
+</archimate:BusinessActor>

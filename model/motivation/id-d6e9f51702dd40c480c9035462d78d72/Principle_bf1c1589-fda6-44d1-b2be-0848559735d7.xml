@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg voor gedistribueerde erfgoedinformatie"
+    id="bf1c1589-fda6-44d1-b2be-0848559735d7"
+    documentation="Gedistribueerde erfgoedinformatie is informatie die bijeen kan worden gebracht vanuit meerdere bronsystemen. Informatie wordt niet centraal aangeboden door één voorziening van één organisatie, maar decentraal door meerdere voorzieningen van meerdere organisaties. Daarbij is elke organisatie een onafhankelijk knooppunt en elke voorziening een onafhankelijke toepassing. Tezamen vormen de organisaties en hun voorzieningen een netwerk dat informatie uitwisselt volgens gedeelde afspraken.">
+  <properties
+      key="Rationale"
+      value="Het netwerk van erfgoedinformatie is omvangrijk en uiteenlopend. Het is onmogelijk dit netwerk centraal te organiseren en overkoepelende voorzieningen in te richten die voldoen aan alle verschillende behoeften. Daarnaast is het onwenselijk dit netwerk centraal te organiseren, omdat de duurzaamheid van zo’n centrale organisatie moeilijk te garanderen is. Daarom moeten deelnemers aan het netwerk zichzelf organiseren en eigenhandig zorgdragen voor het beschikbaar stellen en delen van erfgoedinformatie. Deze autonomie voorkomt afhankelijkheden en bevordert flexibiliteit. Iedereen is ervoor verantwoordelijk dat de informatie op zo’n manier wordt aangeboden dat gebruikers geen last hebben van de verscheidenheid van het netwerk. Zie operationeel doel 1."/>
+  <properties
+      key="Uitspraak"
+      value="Zorg voor gedistribueerde erfgoedinformatie"/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="8"/>
+</archimate:Principle>

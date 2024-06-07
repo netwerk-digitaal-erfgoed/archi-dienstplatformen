@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auteursrechtelijke status"
+    id="id-0615bbc1-aaff-4567-9855-97d96569696c"
+    documentation="De auteursrechtelijke status van erfgoedinformatie maakt duidelijk of het gebruik ervan beperkt wordt door auteursrechten.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="auteursrechtelijke status"/>
+  <properties
+      key="Breder begrip"
+      value="Rechtenstatus"/>
+</archimate:BusinessObject>

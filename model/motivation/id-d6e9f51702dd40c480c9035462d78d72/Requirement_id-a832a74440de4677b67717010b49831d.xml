@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer versies"
+    id="id-a832a74440de4677b67717010b49831d"
+    documentation="Zorg dat versies van de datasets gepubliceerd (blijven) worden: afnemers kunnen eerdere versies gebruiken dan de huidige versie."/>

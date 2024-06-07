@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer herkomst"
+    id="id-5583248746a24464be566c17738473f3"
+    documentation="Zorg dat informatie over de herkomst van de metadata wordt vastgelegd, zoals de maker en uitgever, maar bijvoorbeeld ook of de metadata afgeleid zijn van andere metadata."/>

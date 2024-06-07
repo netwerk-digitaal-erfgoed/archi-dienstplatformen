@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer verrijkingen"
+    id="id-00c3c06cdc93498c8393619246cb3d85"
+    documentation="Het zorgdragen dat verrijkingen als eigenstandig informatieobject beheer worden.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

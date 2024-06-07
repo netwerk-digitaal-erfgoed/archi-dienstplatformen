@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sla verrijkingen separaat op"
+    id="id-5b569e66a7fe4c8fab0be6c5311b93c8"
+    documentation="Zorg dat verrijkingen onafhankelijk opgeslagen zijn van website of collectiebeheersysteem zodat ze behouden blijven en overdraagbaar zijn."/>

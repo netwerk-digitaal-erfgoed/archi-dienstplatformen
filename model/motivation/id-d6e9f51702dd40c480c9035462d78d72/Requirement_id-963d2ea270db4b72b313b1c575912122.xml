@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer authenticiteit"
+    id="id-963d2ea270db4b72b313b1c575912122"
+    documentation="Zorg dat informatie over de authenticiteit van de metadata wordt vastgelegd."/>

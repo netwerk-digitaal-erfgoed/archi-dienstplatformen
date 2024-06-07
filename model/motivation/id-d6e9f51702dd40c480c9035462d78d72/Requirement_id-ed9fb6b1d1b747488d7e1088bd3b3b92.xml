@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verstrek informatie over relaties"
+    id="id-ed9fb6b1d1b747488d7e1088bd3b3b92"
+    documentation="Zorg dat informatie beschikbaar is over relaties tussen termen en metadata van objecten, tussen termen onderling (alignments) en/of tussen (metadata van) objecten onderling (bijvoorbeeld Werk/ Expressie/Manifestatie/Instantierelaties)."/>

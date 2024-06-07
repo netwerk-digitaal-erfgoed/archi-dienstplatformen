@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="H2M-interactie"
+    id="id-04fe135291574f43b3e94205740b4c95"
+    documentation="Het bieden van mens-machine-interactie (zoals gebruikersinterfaces, apps, etc.) voor het raadplegen van erfgoedinformatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Synoniem"
+      value="Mens-machine-interactie, Gebruikersinteractie"/>
+</archimate:ApplicationFunction>

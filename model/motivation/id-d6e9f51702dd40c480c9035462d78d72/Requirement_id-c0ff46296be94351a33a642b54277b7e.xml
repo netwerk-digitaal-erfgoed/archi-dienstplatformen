@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer organisatiekenmerken"
+    id="id-c0ff46296be94351a33a642b54277b7e"
+    documentation="Zorg dat kenmerkende metadata van de organisatie gepubliceerd worden, zoals naam, eventuele alternatieve naam en beschrijving. Zo wordt voor afnemers duidelijk met wie ze van doen hebben."/>

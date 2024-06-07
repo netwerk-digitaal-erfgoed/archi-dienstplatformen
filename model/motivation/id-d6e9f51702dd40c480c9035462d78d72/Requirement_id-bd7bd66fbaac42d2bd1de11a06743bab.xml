@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorgifte onderscheidende metadata"
+    id="id-bd7bd66fbaac42d2bd1de11a06743bab"
+    documentation="De metadata van gevonden termen worden toegankelijk gemaakt. De metadata maken de betekenis van termen duidelijk voor afnemers.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

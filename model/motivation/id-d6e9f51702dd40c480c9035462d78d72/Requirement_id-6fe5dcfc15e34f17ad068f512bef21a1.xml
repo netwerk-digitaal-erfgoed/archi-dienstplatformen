@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie en autorisatie bij beperkte openbaarheid"
+    id="id-6fe5dcfc15e34f17ad068f512bef21a1"
+    documentation="Bij aanvragen voor digitale informatieobjecten wordt authenticatie en autorisatie toegepast bij objecten met beperkte openbaarheid."/>

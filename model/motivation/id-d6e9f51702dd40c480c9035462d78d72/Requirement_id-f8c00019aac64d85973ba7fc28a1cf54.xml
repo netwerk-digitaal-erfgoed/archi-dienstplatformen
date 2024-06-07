@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer beschikbaarheid"
+    id="id-f8c00019aac64d85973ba7fc28a1cf54"
+    documentation="Zorg dat informatie over de verwachte beschikbaarheid van de metadata wordt vastgelegd, de periode waarin ze beschikbaar blijven voor afnemers."/>

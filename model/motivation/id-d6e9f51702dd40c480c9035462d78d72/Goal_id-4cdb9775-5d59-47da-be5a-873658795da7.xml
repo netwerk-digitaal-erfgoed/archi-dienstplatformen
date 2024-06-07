@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grotere maatschappelijke waarde door de gebruiker centraal te stellen"
+    id="id-4cdb9775-5d59-47da-be5a-873658795da7"
+    documentation="Bij het beheren of aanbieden van erfgoedinformatie richten de erfgoedinstellingen zich op de bruikbaarheid voor de gebruikers.">
+  <properties
+      key="Rationale"
+      value="Gebruikers bepalen de maatschappelijke waarde van het erfgoed. Zie de Nationale Strategie Digitaal Erfgoed."/>
+  <properties
+      key="Implicaties"
+      value="Individuele erfgoedinstellingen kennen hun eigen gebruikers al en bieden hun erfgoedinformatie en functionaliteit zo goed mogelijk voor hen aan. Het strategische doel om de gebruiker centraal te stellen, heeft de volgende implicaties:&lt;br/>1. De gebruiker moet erfgoedinformatie uit afzonderlijk beheerde erfgoedverzamelingen samen kunnen raadplegen en gebruiken. Daartoe worden middels gezamenlijke afspraken en oplossingen onnodige verschillen tussen bronaanbieders of bronhouders voorkomen. Zie operationeel doel 1.&lt;br/>2. De gebruiker moet erfgoedinformatie voor zijn/haar doel kunnen inzetten. Daartoe moet de gebruiker de bruikbaarheid en de duurzame toegankelijkheid ervan vast kunnen stellen. Zie operationeel doel 2 en operationeel doel 4.&lt;br/>3. De gebruiker moet gezamenlijke erfgoedinformatie kunnen raadplegen en gebruiken in combinatie met eigen informatie, of die van derden. Daartoe moet informatie kunnen worden toegevoegd. Zie operationeel doel 3.&lt;br/>4. Erfgoedinstellingen moeten samenwerken. Zie operationeel doel 5."/>
+  <properties
+      key="Type"
+      value="Strategisch doel"/>
+  <properties
+      key="Uitspraak"
+      value="Grotere maatschappelijke waarde door de gebruiker centraal te stellen"/>
+  <properties
+      key="ID"
+      value="1"/>
+</archimate:Goal>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadataopnamepunt"
+    id="id-cbe0a98996fd48b5885e53f5d954d343"
+    documentation="Component die het gebruik van externe metadata, zoals termen uit een terminologiebron, in het metadatabeheersysteem ondersteunt."/>

@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruiker kan de bruikbaarheid van erfgoedinformatie vaststellen"
+    id="c2b2b8d2-99ce-426e-a799-74133a426f56"
+    documentation="De gebruiker moet kunnen vaststellen of gevonden erfgoedinformatie voldoet aan de eisen van zijn/ haar toepassing. Hierbij kan men onder andere denken aan inhoudelijke bruikbaarheid van een specifiek object (is de foto van het betreffende onderwerp?) of van een selectie (zijn dit alle beschikbare foto’s van het betreffende onderwerp?)">
+  <properties
+      key="Rationale"
+      value="De bruikbaarheid van erfgoedinformatie verschilt per gebruiker en per toepassing. Het is als bronhouder of aanbieder onmogelijk deze vast te stellen en de erfgoedinformatie specifiek daarop in te richten. De bronhouder kan slechts zorgen dat zoveel mogelijk beschikbare informatie op een zo duidelijk mogelijke manier beschikbaar is en blijft, zodanig dat de gebruiker zelf kan vaststellen of de erfgoedinformatie bruikbaar is."/>
+  <properties
+      key="Implicaties"
+      value="1. De authenticiteit van erfgoedinformatie moet zijn vastgelegd en gepubliceerd. Zie principe 1 en principe 2.&lt;br/>2. De beschikbaarheid van erfgoedinformatie moet zijn vastgelegd en gepubliceerd. Zie principe 2.&lt;br/>3. De inhoud en context van erfgoedinformatie moet zijn vastgelegd en gepubliceerd. Zie principe 4 en principe 5.&lt;br/>4. De restricties die gelden voor openbaarheid zijn vastgelegd en gepubliceerd. De redenen om restricties op te leggen zijn divers. Bijvoorbeeld: het beschermen van de privacy, de archiefwet en het (intellectuele) eigendoms- en gebruiksrecht van erfgoedinformatie. Zie principe 2 en principe 3.&lt;br/>5. De vorm en functionaliteit waarmee erfgoedinformatie wordt aangeboden, moet worden gespecificeerd. Bijvoorbeeld dat de informatie real-time kan worden opgevraagd met een duurzame identifier (zie ook [[Linked Data]], met vermelding van het formaat waarin het antwoord op een informatievraag wordt aangeboden."/>
+  <properties
+      key="ID"
+      value="2"/>
+  <properties
+      key="Type"
+      value="Operationeel doel"/>
+  <properties
+      key="Uitspraak"
+      value="Gebruiker kan bruikbaarheid van erfgoedinformatie vaststellen"/>
+</archimate:Goal>

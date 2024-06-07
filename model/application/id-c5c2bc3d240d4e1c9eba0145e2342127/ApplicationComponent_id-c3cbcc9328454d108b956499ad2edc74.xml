@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadataintegratiecomponent"
+    id="id-c3cbcc9328454d108b956499ad2edc74"
+    documentation="Component die verantwoordelijk is voor het semantisch verbinden van metadata. Geïntegreerde metadata kan desgewenst als verrijking worden overgenomen in het metadatabeheersysteem."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erfgoedinformatieleveringpunt"
+    id="id-92b9c75d70a94989ad5cf8a5ce350ad2"
+    documentation="Component die fungeert als ingang om erfgoedinformatie op te halen en te vinden, rekening houdend met eventuele toegangsbeperkingen. Er zijn twee soorten interfaces: H2M (human-to-machine) gebruikersinterfaces en M2M (machine-to-machine) applicatieinterfaces.&#xD;&#xA;&#xD;&#xA;Voorbeelden van erfgoedinformatieleveringspunten zijn: doelgroepgerichte apps, een website met catalogusinformatie, OAI-PMH endpoint, SPARQL-endpoint op een terminologiebron, et cetera."/>

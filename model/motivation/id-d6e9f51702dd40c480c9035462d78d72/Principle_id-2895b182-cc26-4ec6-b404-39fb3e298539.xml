@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg dat erfgoedinformatie verwijst"
+    id="id-2895b182-cc26-4ec6-b404-39fb3e298539"
+    documentation="Betekenis en interpretatie van erfgoedinformatie is afhankelijk van de context. De context moet worden vastgelegd door te verwijzen naar gerelateerde en beheerde erfgoedinformatie, definities, etc.">
+  <properties
+      key="Rationale"
+      value="De verwijzingen vormen onderdeel van de context en helpen de bruikbaarheid van de erfgoedinformatie vast te stellen. Zie operationeel doel 2.&lt;br/>De verwijzingen kunnen helpen om een object vanuit de gerelateerde context vindbaar te maken. Zie operationeel doel 1."/>
+  <properties
+      key="Uitspraak"
+      value="Zorg dat erfgoedinformatie verwijst"/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="5"/>
+</archimate:Principle>

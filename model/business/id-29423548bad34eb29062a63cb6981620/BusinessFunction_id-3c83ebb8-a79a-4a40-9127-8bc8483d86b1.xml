@@ -1,0 +1,21 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inwinning"
+    id="id-3c83ebb8-a79a-4a40-9127-8bc8483d86b1"
+    documentation="Het ontvangen en verzamelen van informatieobjecten en bijbehorende metadata en het verwerken ervan tot een voor beheer geschikt formaat.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="inwinning"/>
+  <properties
+      key="Toelichting"
+      value="Inwinning kan een actief (ophalen) of passief (aangeleverd krijgen) karakter hebben."/>
+  <properties
+      key="Synoniem"
+      value="ingest"/>
+  <properties
+      key="Type"
+      value="DERA-keten"/>
+</archimate:BusinessFunction>

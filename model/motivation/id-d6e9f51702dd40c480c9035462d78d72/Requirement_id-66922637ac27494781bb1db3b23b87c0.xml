@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatie doorzoekbare terminologiebronnen"
+    id="id-66922637ac27494781bb1db3b23b87c0"
+    documentation="De metadata van doorzoekbare terminologiebronnen worden gepubliceerd. Zo kunnen afnemers van de dienst achterhalen welke bronnen bevraagd kunnen worden.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer organisatiekenmerken"
+    id="id-e2af46158a7746ea8254d158a3d93784"
+    documentation="Zorg dat kenmerken in de metadata de identiteit van de organisatie duidelijk maken voor afnemers. De metadata dient in elk geval de officiële naam te bevatten en bij voorkeur ook een alternatieve naam (zoals een afkorting) en een beschrijving. In de metadata kunnen ook verwijzingen opgenomen worden naar locaties waar meer informatie over de organisatie te vinden is, zoals registers."/>

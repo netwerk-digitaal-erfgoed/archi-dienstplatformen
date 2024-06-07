@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erfgoedinstellingen werken samen"
+    id="b730ce83-b3af-47d9-a1ae-f833daa69022"
+    documentation="Erfgoedinstellingen moeten samenwerken om hun erfgoedinformatie beter bruikbaar te maken voor gebruikers. Samenwerking zorgt voor afspraken over de manier waarop informatie toegankelijk wordt gemaakt en wordt uitgewisseld. Samenwerking stelt erfgoedinstellingen in staat om elkaars kennis en voorzieningen te benutten.">
+  <properties
+      key="Rationale"
+      value="De inspanningen van erfgoedinstellingen moeten gericht worden op hetzelfde doel: het vergroten van de maatschappelijke waarde van erfgoed door de gebruiker centraal te stellen. Samenwerking is hier voor de sleutel. Zie ook de Nationale Strategie Digitaal Erfgoed."/>
+  <properties
+      key="Implicaties"
+      value="1. Bronhouders maken afspraken over de manier waarop zij hun erfgoedinformatie beschrijven en publiceren, bijvoorbeeld over metadatastandaarden en koppelvlakken. Zie principe 4.&lt;br/>2. Bronhouders maken afspraken over de erfgoedinformatie die zij van andere bronhouders willen betrekken. Informatie kan beter verbonden en gevonden worden als bronhouders gebruikmaken van dezelfde bronnen, zoals terminologiebronnen met termen. Zie principe 5.&lt;br/>3. Bronhouders maken duidelijk wat de beschikbaarheid van hun erfgoedinformatie is. Zie principe 2. Zo weten andere bronhouders in hoeverre ze de informatie kunnen gebruiken."/>
+  <properties
+      key="ID"
+      value="5"/>
+  <properties
+      key="Type"
+      value="Operationeel doel"/>
+  <properties
+      key="Uitspraak"
+      value="Erfgoedinstellingen werken samen"/>
+</archimate:Goal>

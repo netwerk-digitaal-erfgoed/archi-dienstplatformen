@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gedigitaliseerd"
+    id="id-37948154-2a78-4b8f-867a-65fc5a298cda"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_d7fbf779-13b8-4ca4-a51f-721f02a8901b.xml#d7fbf779-13b8-4ca4-a51f-721f02a8901b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7f735efd-6b71-40a5-9987-4aba3713691f.xml#id-7f735efd-6b71-40a5-9987-4aba3713691f"/>
+</archimate:AssociationRelationship>

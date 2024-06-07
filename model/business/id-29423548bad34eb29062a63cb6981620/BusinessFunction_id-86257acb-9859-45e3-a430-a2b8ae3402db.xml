@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatie digitale informatieobjecten"
+    id="id-86257acb-9859-45e3-a430-a2b8ae3402db"
+    documentation="Zorgdragen dat digitale erfgoedobjecten (zoals scans, films) toegankelijk worden gemaakt voor afnemers.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

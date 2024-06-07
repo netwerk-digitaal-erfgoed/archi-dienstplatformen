@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Caching"
+    id="id-012494cd2150456e8b3df6a3e94ef92f"
+    documentation="Het lokaal opslaan van data en het up-to-date houden hiervan. Caching vindt vooral plaats om de gewenste kwaliteitsaspecten van de dienst (m.n. performance en betrouwbaarheid) te waarborgen."/>

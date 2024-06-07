@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer kenmerkende metadata"
+    id="id-dd93b61cc06e4bddb4febbfd61e20320"
+    documentation="Zorg dat kenmerkende metadata gepubliceerd worden, zoals naam, beschrijving en typering (onderwerp, persoon, plaats, e.d.). Zo wordt de betekenis van termen duidelijk voor afnemers en kunnen zij de gewenste termen selecteren."/>

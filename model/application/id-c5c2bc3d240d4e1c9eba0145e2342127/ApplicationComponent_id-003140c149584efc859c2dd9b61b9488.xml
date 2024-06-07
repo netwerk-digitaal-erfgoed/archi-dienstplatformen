@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieobjectenbeheersysteem"
+    id="id-003140c149584efc859c2dd9b61b9488"
+    documentation="Component die verantwoordelijk is voor het beheer van digitale informatieobjecten, inclusief de technische en administratieve metadata die nodig is om het informatieobject te kunnen beheren."/>

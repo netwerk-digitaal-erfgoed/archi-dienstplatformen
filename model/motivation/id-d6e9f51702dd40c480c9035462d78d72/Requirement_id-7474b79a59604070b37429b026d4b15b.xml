@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorzoekbaar via zoekingang"
+    id="id-7474b79a59604070b37429b026d4b15b"
+    documentation="De metadata zijn doorzoekbaar via een zoekingang, een SPARQL-endpoint.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

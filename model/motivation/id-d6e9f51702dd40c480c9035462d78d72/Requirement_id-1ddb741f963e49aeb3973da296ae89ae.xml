@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Downloadbaar"
+    id="id-1ddb741f963e49aeb3973da296ae89ae"
+    documentation="De datasets zijn downloadbaar als ‘datadumps’.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

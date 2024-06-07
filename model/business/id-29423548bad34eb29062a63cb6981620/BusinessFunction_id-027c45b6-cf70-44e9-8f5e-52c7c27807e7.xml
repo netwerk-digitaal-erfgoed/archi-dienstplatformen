@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer metadata cultuurhistorische objecten of informatieobjecten"
+    id="id-027c45b6-cf70-44e9-8f5e-52c7c27807e7"
+    documentation="Rol: bronhouder metadata cultuurhistorisch object.&#xD;&#xA;&#xD;&#xA;Requirements:&#xD;&#xA;&lt;ul>&#xD;&#xA;&lt;li>Gebruik termen uit terminologiebronnen in de metadata. Dit zijn de aangrijpingspunten voor vindbaarheid in het netwerk, waardoor het mogelijk wordt om te zoeken op ‘wie’-, ‘wat’-, ‘waar’-, ‘wanneer’-vragen. Daarnaast biedt het de mogelijkheid om gebruik te maken van gestandaardiseerde definities bij het beschrijven van cultuurhistorische objecten of informatieobjecten.&lt;/li>&#xD;&#xA;&lt;li>Leg bij het gebruik van terminologiebronnen een relatie met de betreffende term met behulp van een duurzame identifier.&lt;/li>&#xD;&#xA;&lt;li>Zorg dat de metadatering voldoet aan de (nog nader te bepalen) minimale kwaliteitseisen over de wijze van metadatering.&lt;/li>&#xD;&#xA;&lt;li>Neem waar zinvol verrijkingen over die door derden worden aangeleverd. Als verrijkingen worden opgenomen, dient te worden bepaald of de toegevoegde informatie duurzaam toegankelijk moet worden gemaakt&lt;/li>&#xD;&#xA;&lt;li>Zorg dat de auteursrechtelijke status van het object wordt vastgelegd.&lt;/li>&#xD;&#xA;&lt;li>Druk de gebruiksrechten van de cultuurhistorische objecten en informatieobjecten per object uit, op basis van eigen inzicht, kennis en beleid. Dit kan zelfs voor verschillende verschijningen van het object (fysiek/analoog en digitale representatie) verschillen.&lt;/li>&#xD;&#xA;&lt;/ul>">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

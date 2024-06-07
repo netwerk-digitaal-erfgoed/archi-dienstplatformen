@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer versies van verrijkingen"
+    id="id-3086b0c1742d43e18c7735ea0b19e963"
+    documentation="Zorg dat versies van verrijkingen gepubliceerd worden. Door de tijd heen kunnen nieuwe versies van verrijkingen beschikbaar komen (bijvoorbeeld door verbeteringen in technologie, of door het vervallen van beperkingen op openbaarmaking). Deze versies moeten onafhankelijk van elkaar kunnen bestaan, zodat de versie die door een afnemer gebruikt is kan worden vastgesteld en zo nodig teruggevonden (bijvoorbeeld in het kader van onderzoek)."/>

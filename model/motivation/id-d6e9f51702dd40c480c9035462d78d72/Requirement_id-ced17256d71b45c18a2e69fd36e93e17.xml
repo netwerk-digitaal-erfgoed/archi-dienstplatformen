@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer relaties"
+    id="id-ced17256d71b45c18a2e69fd36e93e17"
+    documentation="Zorg dat relaties met termen in andere terminologiebronnen gepubliceerd worden. Bijvoorbeeld door de relaties op te nemen in de metadata van termen of door de relaties in een aparte dataset - een ''linkset'' - aan te bieden."/>

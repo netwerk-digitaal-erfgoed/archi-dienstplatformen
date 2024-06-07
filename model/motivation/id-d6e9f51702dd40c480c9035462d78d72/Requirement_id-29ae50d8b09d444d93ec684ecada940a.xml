@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar als linked open data"
+    id="id-29ae50d8b09d444d93ec684ecada940a"
+    documentation="De metadata zijn beschikbaar als linked open data, in een of meer RDF-serialisaties, in elk geval N-Triples (een serialisatie die zowel door mensen als machines eenvoudig te lezen is).">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

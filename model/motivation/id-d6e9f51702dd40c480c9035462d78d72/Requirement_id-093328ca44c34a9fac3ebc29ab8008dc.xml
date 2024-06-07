@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluit via zoekingang"
+    id="id-093328ca44c34a9fac3ebc29ab8008dc"
+    documentation="Zorg, indien mogelijk, dat de datasets bevraagd kunnen worden via een zoekingang, zoals een SPARQL- of Triple Pattern Fragments-endpoint, voor hoogwaardig gebruik door afnemers."/>

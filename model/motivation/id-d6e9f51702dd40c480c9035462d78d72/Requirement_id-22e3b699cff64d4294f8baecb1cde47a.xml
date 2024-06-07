@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewaak beschikbaarheid van gepubliceerde metadata"
+    id="id-22e3b699cff64d4294f8baecb1cde47a"
+    documentation="Zorg dat de gepubliceerde metadata beschikbaar blijft. Dit vereist controle of duurzame identifiers geldig zijn (‘resolven’) om te voorkomen dat zoekvragen van afnemers van de metadata naar dode links leiden. De controle kan ook worden uitgevoerd door de afnemer met een terugmelding naar de bronhouder dat de check is uitgevoerd op een bepaalde datum."/>

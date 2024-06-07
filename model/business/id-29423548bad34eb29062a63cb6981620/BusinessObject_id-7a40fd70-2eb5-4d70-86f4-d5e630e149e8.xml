@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verrijking"
+    id="id-7a40fd70-2eb5-4d70-86f4-d5e630e149e8"
+    documentation="Een verrijking maakt informatie die voorkomt in het oorspronkelijke erfgoedobject of anderszins hoort tot de context expliciet(er). Een bronhouder kan verrijkingen overnemen nadat ze zijn goedgekeurd.">
+  <properties
+      key="Toelichting"
+      value="Verrijkingen hebben de volgende kenmerken:&lt;ul>&lt;li>Verschillende rollen of actoren kunnen verrijkingen creëren.&lt;/li>&lt;li>Verrijkingen kunnen op verschillende momenten ontstaan (beheer, redactie, publicatie, gebruik, etc.).&lt;/li>&lt;li>Verrijkingen kunnen bestaan uit aanvullingen of wijzigingen van informatie (NB Alleen bronhouders kunnen informatie ook verwijderen).&lt;/li>&lt;li>Verrijkingen kunnen geautomatiseerd en handmatig tot stand komen.&lt;/li>&lt;/ul>Verrijkingen kunnen onder andere de volgende vorm hebben:&lt;ul>&lt;li>verbeteringen van tik- en taalfouten;&lt;/li>&lt;li>vertalingen en hertalingen (omzettingen naar hedendaags Nederlands);&lt;/li>&lt;li>transcripties (van handgeschreven bronnen);&lt;/li>&lt;li>Named Entity Recognition (NER);&lt;/li>&lt;li>alignments (links naar of relaties met andere erfgoedinformatie);&lt;/li>&lt;li> aanvullende (context-)informatie (wie, wat, waar, wanneer, waarom, waarmee en hoe);&lt;/li>&lt;li>verbeterde informatie;&lt;/li>&lt;li>Optical Character Recognition (OCR).&lt;/li>&lt;/ul>"/>
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="transcriptie, verbetering"/>
+  <properties
+      key="Spellingvarianten"
+      value="verrijking, Verrijkingen, verrijkingen"/>
+</archimate:BusinessObject>

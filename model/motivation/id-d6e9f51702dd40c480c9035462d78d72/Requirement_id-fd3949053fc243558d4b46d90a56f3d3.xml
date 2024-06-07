@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer provenance"
+    id="id-fd3949053fc243558d4b46d90a56f3d3"
+    documentation="Zorg dat provenance-informatie wordt vastgelegd. Dit geldt in het bijzonder voor metadata die (nog) niet opgenomen is of wordt in de bron. Zodra metadata door de bronhouder wordt opgenomen in de eigen registratie, is deze onderdeel van de bron met bijbehorende kwaliteitsstandaarden en hoeft daar geen uitgebreide provenance meer bij vastgelegd te worden."/>

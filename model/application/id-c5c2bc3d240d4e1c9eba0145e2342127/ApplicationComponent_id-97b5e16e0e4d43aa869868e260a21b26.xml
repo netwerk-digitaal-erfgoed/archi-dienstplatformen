@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadataopnamepunt"
+    id="id-97b5e16e0e4d43aa869868e260a21b26"
+    documentation="Component die fungeert als aanleverpunt voor metadata uit externe bronnen. De aangeleverde meta data wordt geïntegreerd met andere metadata door de metadataintegratiecomponent."/>

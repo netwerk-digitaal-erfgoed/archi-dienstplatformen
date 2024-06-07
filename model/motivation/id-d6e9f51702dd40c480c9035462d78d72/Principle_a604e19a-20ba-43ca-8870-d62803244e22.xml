@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Respecteer de diversiteit van erfgoedinformatie"
+    id="a604e19a-20ba-43ca-8870-d62803244e22"
+    documentation="Erfgoedinformatie is zeer divers, zowel in aard als omvang. De diversiteit is inherent aan de organisatorische verscheidenheid van bronhouders. Een grote erfgoedinstelling heeft bijvoorbeeld andere mogelijkheden dan een kleine erfgoedinstelling. Ook is er grote inhoudelijke verscheidenheid tussen bronhouders. Informatie van een archief is bijvoorbeeld wezenlijk anders dan informatie van een museum – en daarmee ook de wijze waarop de informatie beschreven wordt. Deze diversiteit moet gerespecteerd worden.">
+  <properties
+      key="Rationale"
+      value="Bronhouders moeten zelf bepalen welke erfgoedinformatie zij beschikbaar stellen of van anderen betrekken (zie doel 1.2). Generieke voorzieningen stellen geen inhoudelijke, kwalitatieve eisen aan erfgoedinformatie: de voorzieningen zijn neutraal."/>
+  <properties
+      key="Uitspraak"
+      value="Bronhouders moeten zelf bepalen welke erfgoedinformatie zij beschikbaar stellen of van anderen betrekken. Zie operationeel doel 2. Netwerkvoorzieningen&lt;ref>Netwerkvoorzieningen zijn binnen het Netwerk Digitaal Erfgoed gedeelde voorzieningen die uitsluitend gemeenschappelijk worden gebruikt.&lt;/ref> stellen geen inhoudelijke, kwalitatieve eisen aan erfgoedinformatie: de voorzieningen zijn neutraal."/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="7"/>
+</archimate:Principle>

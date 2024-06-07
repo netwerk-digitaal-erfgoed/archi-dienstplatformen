@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Versioneer verrijkingen"
+    id="id-ae03bcfd7839411490d752dd8d5d6ad1"
+    documentation="Zorg dat versies van verrijkingen in beheer blijven. Door de tijd heen kunnen nieuwe versies van verrijkingen beschikbaar komen (bijvoorbeeld door verbeteringen in technologie, of door het vervallen van beperkingen op openbaarmaking). Deze versies moeten onafhankelijk van elkaar kunnen bestaan, zodat de versie die door een afnemer gebruikt is kan worden vastgesteld en zo nodig teruggevonden (bijvoorbeeld in het kader van onderzoek)."/>

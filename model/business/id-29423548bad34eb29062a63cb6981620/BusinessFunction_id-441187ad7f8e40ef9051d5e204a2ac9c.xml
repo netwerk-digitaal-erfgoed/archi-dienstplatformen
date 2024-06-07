@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatie metadata"
+    id="id-441187ad7f8e40ef9051d5e204a2ac9c"
+    documentation="Zorgdragen dat metadata toegankelijk worden gemaakt voor afnemers. Dit gaat om alle soorten metadata.">
+  <properties
+      key="Begrippenlijst"
+      value="Nee"/>
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

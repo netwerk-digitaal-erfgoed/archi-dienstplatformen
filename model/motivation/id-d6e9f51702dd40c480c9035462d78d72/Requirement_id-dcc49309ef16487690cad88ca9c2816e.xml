@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behoud duurzame identifiers"
+    id="id-dcc49309ef16487690cad88ca9c2816e"
+    documentation="Zorg dat duurzame identifiers blijven werken, ook als de metadata wijzigen of verwijderd worden: de identifiers kunnen in gebruik zijn bij afnemers."/>

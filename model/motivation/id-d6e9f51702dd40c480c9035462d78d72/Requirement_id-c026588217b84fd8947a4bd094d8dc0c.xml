@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer authenticiteit"
+    id="id-c026588217b84fd8947a4bd094d8dc0c"
+    documentation="Zorg dat informatie over de authenticiteit van de metadata wordt gepubliceerd."/>

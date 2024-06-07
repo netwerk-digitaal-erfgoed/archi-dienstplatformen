@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Expliciete relaties"
+    id="id-5fa1032eb48649be9177875ce8203175"
+    documentation="Eventuele relaties met termen in andere terminologiebronnen zijn expliciet vermeld in de metadata of in een aparte dataset, een ''linkset''.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

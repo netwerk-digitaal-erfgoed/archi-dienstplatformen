@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatie metadata verrijkingen"
+    id="id-1d281a94486a4a64873e9cc7f173b449"
+    documentation="Zorgdragen dat de metadata van verrijkingen toegankelijk worden gemaakt voor afnemers.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,16 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlener voor gericht informatie verwerven"
+    id="id-94262d9876d74b2e9902cad46fc238c6"
+    documentation="Biedt een dienst gericht op cultureel geïnteresseerden/hobbyisten/lifelong learners/professionals/onderzoekers, gedreven door specifieke, content-gerelateerde doelen, veelal voortbouwend op reeds bestaande kennis over specifieke onderwerpen of om vaardigheden (verder) te ontwikkelen.">
+  <properties
+      key="Begrippenlijst"
+      value="Nee"/>
+  <properties
+      key="Spellingvarianten"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Bron"
+      value="Gedragsprofielen Digitaal Erfgoed - Functionele specificaties, versie 1.0, juni 2021"/>
+</archimate:BusinessRole>

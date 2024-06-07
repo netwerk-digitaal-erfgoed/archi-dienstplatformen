@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsaspecten van de dienst zijn geborgd"
+    id="id-a46e940fc94848eebff3be3b187e9031"
+    documentation="De beschikbaarheid, betrouwbaarheid, schaalbaarheid en toegankelijkheid van de dienst zijn gewaarborgd.">
+  <properties
+      key="Type"
+      value="NFR"/>
+</archimate:Requirement>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer statussen"
+    id="id-4a04ccb054d048618213aebc2a53f6fa"
+    documentation="Zorg dat de statussen van termen gepubliceerd worden. Zo kunnen afnemers achterhalen welke termen ‘actueel’ of ‘verouderd’ zijn."/>

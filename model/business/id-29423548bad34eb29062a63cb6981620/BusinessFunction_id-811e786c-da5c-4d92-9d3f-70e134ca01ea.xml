@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer digitale informatieobjecten"
+    id="id-811e786c-da5c-4d92-9d3f-70e134ca01ea"
+    documentation="Zorgdragen voor het beheer van digitale informatieobjecten, zoals scans of films.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

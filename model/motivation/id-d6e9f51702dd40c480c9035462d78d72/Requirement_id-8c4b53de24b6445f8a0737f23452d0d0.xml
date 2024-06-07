@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer provenance"
+    id="id-8c4b53de24b6445f8a0737f23452d0d0"
+    documentation="Hanteer (een implementatie van) de W3C provenance ontology PROV-O voor publicatie van relevante provenance-informatie."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indexeren"
+    id="id-1398cf12f4d4489080379efb06bd9abc"
+    documentation="Het bijhouden van indexen (als dit nodig is om gewenste performance te kunnen bieden)."/>

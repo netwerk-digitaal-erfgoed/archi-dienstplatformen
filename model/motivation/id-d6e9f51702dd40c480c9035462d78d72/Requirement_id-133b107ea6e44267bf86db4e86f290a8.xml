@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie doorzoekbare terminologiebronnen"
+    id="id-133b107ea6e44267bf86db4e86f290a8"
+    documentation="De metadata van doorzoekbare terminologiebronnen worden vastgelegd. Zo weet de dienst welke bronnen waar bevraagd kunnen worden. De dienst raadpleegt hiertoe de dienst ''Vindbare datasets''.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

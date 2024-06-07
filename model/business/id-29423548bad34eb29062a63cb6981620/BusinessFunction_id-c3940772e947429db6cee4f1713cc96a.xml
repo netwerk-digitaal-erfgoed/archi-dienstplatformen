@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatie datasets"
+    id="id-c3940772e947429db6cee4f1713cc96a"
+    documentation="Zorgdragen dat datasets toegankelijk worden gemaakt voor afnemers.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

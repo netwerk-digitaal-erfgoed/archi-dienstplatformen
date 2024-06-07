@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integratie"
+    id="id-145442302e60485aadca54baa223e1ea"
+    documentation="Het verbinden, combineren, aligneren, integreren of anderszins met elkaar in verband brengen van erfgoedinformatie uit verschillende bronnen.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="integratie"/>
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

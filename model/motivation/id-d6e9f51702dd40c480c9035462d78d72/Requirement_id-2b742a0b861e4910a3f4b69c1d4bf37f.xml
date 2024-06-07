@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer linked open data"
+    id="id-2b742a0b861e4910a3f4b69c1d4bf37f"
+    documentation="Zorg dat de metadata als linked open data gepubliceerd worden. Voor algemeen gebruik dient een gestandaardiseerd, veelgebruikt vocabulaire benut te worden. Voor specifiek gebruik kan dit een domeinvocabulaire zijn."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer gebruiksrechten"
+    id="id-b64f06bc72ba464bb242f39b84c67e59"
+    documentation="Zorg dat de gebruiksrechten van de verrijking gepubliceerd worden. Gebruik hiervoor een gestandaardiseerde en machineleesbare rechtenverklaring, zoals van Creative Commons of RightsStatements.org."/>

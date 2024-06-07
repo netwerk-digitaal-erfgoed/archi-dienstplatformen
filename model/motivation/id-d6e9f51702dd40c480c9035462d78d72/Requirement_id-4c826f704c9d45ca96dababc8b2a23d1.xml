@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer actualiteit"
+    id="id-4c826f704c9d45ca96dababc8b2a23d1"
+    documentation="Zorg dat informatie over de actualiteit van de metadata gepubliceerd wordt, zoals wanneer de metadata voor het eerst gepubliceerd en voor het laatst aangepast zijn."/>

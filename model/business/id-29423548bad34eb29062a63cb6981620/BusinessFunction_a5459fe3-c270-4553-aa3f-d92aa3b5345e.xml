@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer metadata termen"
+    id="a5459fe3-c270-4553-aa3f-d92aa3b5345e"
+    documentation="Zorgdragen dat de metadata van termen beheerd wordt.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

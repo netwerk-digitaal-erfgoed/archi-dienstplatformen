@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatieobject"
+    id="id-1a0bc3db-a2bd-4970-a2b4-41f1cc7c0b58"
+    documentation="Een informatieobject is een op zichzelf staand geheel van gegevens met een eigen identiteit.">
+  <properties
+      key="Toelichting"
+      value="Informatieobjecten zijn in essentie heel breed. Vanuit DERA bezien:&lt;ul>&lt;li>bevat een informatieobject informatie over een of meerdere cultuurhistorische objecten;&lt;/li>&lt;li>is een informatieobject digital born, gedigitaliseerd of analoog;&lt;/li>&lt;li>bestaat, bestond of zou een informatieobject kunnen (gaan) bestaan;&lt;/li>&lt;li>kan een informatieobject samengesteld zijn uit verschillende informatieobjecten (aggregatie).&lt;/li>&lt;/ul>Tezamen dekken de informatieobjecten alle aspecten die relevant zijn om erfgoedinformatie uit te drukken."/>
+  <properties
+      key="Voorbeelden"
+      value="&lt;p>Voorbeelden van informatieobjecten zijn een brief, e-mail, video, website (aggregatie), webpagina, tweet, subsidieaanvraag, vergunning, dossier (aggregatie), etc.&lt;/p>"/>
+  <properties
+      key="Bron"
+      value="Zie https://www.nationaalarchief.nl/archiveren/kennisbank/informatieobject"/>
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvariant"
+      value="informatieobject, Informatieobjecten, informatieobjecten"/>
+</archimate:BusinessObject>

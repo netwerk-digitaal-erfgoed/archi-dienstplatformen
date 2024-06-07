@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="metadata van termen"
+    id="id-ab35e1857b9d4d2090458dcdb479ce7e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ce943e56a9c44094ac8c4b17b578528d.xml#id-ce943e56a9c44094ac8c4b17b578528d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-fa5a139f8838417a9cbdbdf35183cbf3.xml#id-fa5a139f8838417a9cbdbdf35183cbf3"/>
+</archimate:FlowRelationship>

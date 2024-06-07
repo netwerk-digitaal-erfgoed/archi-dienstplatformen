@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bestaat uit"
+    id="a91a3938-de43-4bd6-8312-32fe0ccdcd1b">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-982f617a-1e71-4a7e-b335-619dbf8c66ce.xml#id-982f617a-1e71-4a7e-b335-619dbf8c66ce"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-982f617a-1e71-4a7e-b335-619dbf8c66ce.xml#id-982f617a-1e71-4a7e-b335-619dbf8c66ce"/>
+</archimate:AggregationRelationship>

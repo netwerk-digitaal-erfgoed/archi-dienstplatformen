@@ -1,0 +1,18 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erfgoedinstelling"
+    id="id-7f864ec3-8645-49b8-93da-bc94c4baa589"
+    documentation="Een erfgoedinstelling is een organisatie die erfgoedinformatie beheert en beschikbaar stelt.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Een erfgoedinstelling kan ook de eigenlijke cultuurhistorische objecten beheren. In DERA is het beheer van de erfgoed*informatie* van belang."/>
+  <properties
+      key="Voorbeelden"
+      value="Het betreft met name bibliotheken, musea, archieven, wetenschappelijke instituten en de audiovisuele sector. Cultuurproducerende instellingen zoals beschreven in de Nationale Strategie Digitaal Erfgoed vallen ook onder de definitie van erfgoedinstelling die we in de DERA hanteren. Zie ook[[Nationale Strategie Digitaal Erfgoed]]."/>
+  <properties
+      key="Spellingvarianten"
+      value="erfgoedinstelling, Erfgoedinstellingen, erfgoedinstellingen"/>
+</archimate:BusinessActor>

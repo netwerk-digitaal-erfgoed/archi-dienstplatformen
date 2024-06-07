@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar in gestandaardiseerd vocabulaire"
+    id="id-3153da24a7d844f18115562974fe2710"
+    documentation="De metadata van gevonden datasets zijn beschikbaar volgens Schema.org of DCAT.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

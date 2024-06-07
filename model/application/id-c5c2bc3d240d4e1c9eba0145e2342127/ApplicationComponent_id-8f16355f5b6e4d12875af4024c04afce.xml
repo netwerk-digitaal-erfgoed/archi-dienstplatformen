@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadatabeheersysteem"
+    id="id-8f16355f5b6e4d12875af4024c04afce"
+    documentation="Component die verantwoordelijk is voor het beheer van beschrijvende, structurele en administratieve metadata die nodig is voor, onder andere:&#xD;&#xA;* het identificeren en vinden van objecten;&#xD;&#xA;* het leggen van relaties tussen individuele objecten die gezamenlijk een eenheid vormen;&#xD;&#xA;* het vastleggen van de relaties naar de beschreven objecten;&#xD;&#xA;* het (stellen van eisen aan het) gebruik van objecten."/>

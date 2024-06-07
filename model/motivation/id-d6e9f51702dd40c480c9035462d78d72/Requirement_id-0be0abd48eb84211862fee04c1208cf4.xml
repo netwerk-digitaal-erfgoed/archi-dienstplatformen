@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar in Schema.org of FOAF"
+    id="id-0be0abd48eb84211862fee04c1208cf4"
+    documentation="De metadata zijn beschikbaar volgens Schema.org of FOAF.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

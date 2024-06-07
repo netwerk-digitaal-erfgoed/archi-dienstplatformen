@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opvraagbaar met duurzame identifiers"
+    id="id-6492176a9ada4ea384f901d1c12d69c5"
+    documentation="De metadata zijn opvraagbaar met hun duurzame identifiers.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

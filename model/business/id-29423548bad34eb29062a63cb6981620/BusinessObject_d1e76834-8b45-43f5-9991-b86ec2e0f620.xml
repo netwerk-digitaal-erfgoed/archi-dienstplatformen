@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminologiebron"
+    id="d1e76834-8b45-43f5-9991-b86ec2e0f620"
+    documentation="Een terminologiebron is een verzameling gepubliceerde termen die onder regie van een bronhouder worden beheerd.">
+  <properties
+      key="Toelichting"
+      value="&lt;p>Een terminologiebron is een lijst van termen die desgewenst kan worden verrijkt met synoniemen en relaties. Een eenvoudige vorm van een terminologiebron is een lijst van termen zonder onderlinge relaties. Een geavanceerde vorm van een terminologiebron is een thesaurus. Hierin kunnen de concepten hiërarchisch worden gerangschikt, verwijzingen worden opgenomen, van synoniemen en taalequivalenten worden voorzien, binnen een betekenis worden geplaatst (scope note) en van bronvermelding worden voorzien.&lt;/p>&lt;p>Termen uit verschillende terminologiebronnen kunnen betrekking hebben op dezelfde entiteit of hetzelfde onderwerp. Dat vraagt om alignment tussen de terminologiebronnen.&lt;/p>"/>
+  <properties
+      key="Voorbeelden"
+      value="GTAA (Gemeenschappelijke Thesaurus Audiovisuele Archieven), RKDArtists."/>
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="terminologiebron, Terminologiebronnen, terminologiebronnen, termenlijst"/>
+  <properties
+      key="Synoniem"
+      value="Termenlijst"/>
+</archimate:BusinessObject>

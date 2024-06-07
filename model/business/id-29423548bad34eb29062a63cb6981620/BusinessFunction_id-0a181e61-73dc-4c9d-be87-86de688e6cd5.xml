@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlening"
+    id="id-0a181e61-73dc-4c9d-be87-86de688e6cd5"
+    documentation="Het toegankelijk maken van op erfgoedinformatie gebaseerde diensten aan afnemers.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="dienstverlening"/>
+  <properties
+      key="Toelichting"
+      value="&lt;p>Rol: dienstverlener.&lt;/p>&lt;p>Requirements:&lt;ul>&lt;li>Gebruik waar mogelijk erfgoedinformatie die beschikbaar wordt gesteld door bronhouders binnen het NDE.&lt;/li>&lt;li>Gebruik de gedeelde voorzieningen voor de selectie van erfgoedinformatie.&lt;/li>&lt;li>Draag bij aan het verbeteren van de toegankelijkheid van het netwerk door verrijking van de metadata.&lt;/li>&lt;/ul>&lt;/p>"/>
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

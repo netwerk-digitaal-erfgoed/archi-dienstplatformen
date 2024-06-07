@@ -1,0 +1,16 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlener voor intens beleven"
+    id="id-2798a3ed9eac4716b3b97a38c1e61227"
+    documentation="Biedt een dienst gericht op een onderdompelende ervaring (‘immersive experience’) en/of een contemplatieve, esthetische of&#xD;&#xA;spirituele ervaring, die ontspant en die ‘de batterij weer oplaadt’.">
+  <properties
+      key="Begrippenlijst"
+      value="Nee"/>
+  <properties
+      key="Spellingvarianten"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Bron"
+      value="Gedragsprofielen Digitaal Erfgoed - Functionele specificaties, versie 1.0, juni 2021"/>
+</archimate:BusinessRole>

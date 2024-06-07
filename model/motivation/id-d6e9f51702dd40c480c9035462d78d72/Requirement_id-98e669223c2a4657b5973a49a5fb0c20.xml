@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar volgens Schema.org of DCAT"
+    id="id-98e669223c2a4657b5973a49a5fb0c20"
+    documentation="De metadata zijn beschikbaar volgens Schema.org of DCAT.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

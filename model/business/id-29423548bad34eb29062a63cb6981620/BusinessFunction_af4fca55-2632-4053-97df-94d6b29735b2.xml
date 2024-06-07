@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicatie metadata cultuurhistorische objecten en informatieobjecten"
+    id="af4fca55-2632-4053-97df-94d6b29735b2"
+    documentation="Zorgdragen dat de metadata van cultuurhistorische objecten en informatieobjecten toegankelijk worden gemaakt voor afnemers.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

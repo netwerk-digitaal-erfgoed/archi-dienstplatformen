@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorgifte gevonden metadata"
+    id="id-1758aeb396bc4c078d27f672e0f02b11"
+    documentation="De metadata van gevonden datasets worden doorgegeven. De metadata maken de inhoud en online vindplaats van de datasets duidelijk voor afnemers.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

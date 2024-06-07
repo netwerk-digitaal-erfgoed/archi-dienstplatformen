@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar in gestandaardiseerd vocabulaire"
+    id="id-945157bfbf604353a3fd5414827fdc7e"
+    documentation="De metadata zijn beschikbaar in een gestandaardiseerd vocabulaire dat past bij de aard van de termen, zoals SKOS of Schema.org.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

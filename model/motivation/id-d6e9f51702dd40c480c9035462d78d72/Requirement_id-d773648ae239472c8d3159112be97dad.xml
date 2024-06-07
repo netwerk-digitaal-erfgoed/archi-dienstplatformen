@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie via koppelvlak"
+    id="id-d773648ae239472c8d3159112be97dad"
+    documentation="De duurzame identifiers van de metadata van datasets kunnen door bronhouders geregistreerd worden via een koppelvlak van de dienst. Hierdoor weet de dienst welke datasets waar beschikbaar zijn.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

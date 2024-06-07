@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cultuurhistorisch object"
+    id="id-982f617a-1e71-4a7e-b335-619dbf8c66ce"
+    documentation="Een cultuurhistorisch object of erfgoedobject is een object met een bepaalde cultuurhistorische waarde.">
+  <properties
+      key="Toelichting"
+      value="Een cultuurhistorisch object:&lt;ul>&lt;li>kan een materieel (Nachtwacht), immaterieel (volksdans), conceptueel (Tweede Wereldoorlog) of een digitaal (tweet van Trump) cultuurhistorisch object zijn;&lt;/li>&lt;li>bestaat, bestond of zou kunnen (gaan) bestaan;&lt;/li>&lt;li>kan samengesteld zijn uit verschillende cultuurhistorische objecten.&lt;/li>&lt;p>In de Erfgoedwet wordt het begrip ‘cultureel erfgoed’ juridisch afgebakend. In de DERA wordt een ruimere informatiekundige definitie gehanteerd. In de Erfgoedwet gaat het om ‘bronnen uit het verleden’, terwijl in de DERA uitvoeringen in de toekomst ook als een potentieel cultuurhistorisch object worden beschouwd, omdat ze een onderdeel kunnen zijn van de vindbare erfgoedinformatie.&lt;/p>&lt;p>De definitie van een ‘cultural heritage object’ uit Europeana luidt: “The original object that is the focus of the metadata description. It may be either a physical object (painting, book etc) or a digital original”. Dit komt overeen met de verbijzonderingen materieel cultuurhistorisch object en digitaal cultuurhistorisch object.&lt;/p>"/>
+</archimate:BusinessObject>

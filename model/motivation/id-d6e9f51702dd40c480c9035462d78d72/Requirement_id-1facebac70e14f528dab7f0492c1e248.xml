@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer in gestandaardiseerd vocabulaire"
+    id="id-1facebac70e14f528dab7f0492c1e248"
+    documentation="Zorg dat de metadata als linked open data gepubliceerd worden volgens een gestandaardiseerd vocabulaire dat past bij de aard van de termen, zoals SKOS of Schema.org."/>

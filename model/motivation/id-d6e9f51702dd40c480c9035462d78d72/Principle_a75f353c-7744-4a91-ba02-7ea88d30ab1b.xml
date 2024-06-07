@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg dat informatie herkenbaar en gebruiksvriendelijk wordt aangeboden"
+    id="a75f353c-7744-4a91-ba02-7ea88d30ab1b"
+    documentation="Erfgoed moet als zodanig herkenbaar zijn en moet worden aangeboden op een manier die voor gebruikers eenvoudig te gebruiken is.">
+  <properties
+      key="Rationale"
+      value="Door de gezamenlijke erfgoedinformatie zoveel mogelijk op eenzelfde manier te presenteren, kan de gebruiker snel de inhoud en de bruikbaarheid van objecten van meerdere aanbieders vaststellen en vergelijken. Zie operationeel doel 1.&lt;br/>Gebruiksvriendelijkheid zorgt ervoor dat de gebruiker eenvoudig kan bekijken of de erfgoedinformatie voor hem/haar interessant of bruikbaar is. Zie operationeel doel 2.&lt;br/>Aansluiting bij actuele technologie (migratie, emulatie) zorgt ervoor dat ook toekomstige gebruikers erfgoedinformatie als zodanig kunnen blijven herkennen en gebruiken. Zie operationeel doel 4."/>
+  <properties
+      key="Uitspraak"
+      value="Zorg dat informatie herkenbaar en gebruiksvriendelijk wordt aangeboden"/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="3"/>
+</archimate:Principle>

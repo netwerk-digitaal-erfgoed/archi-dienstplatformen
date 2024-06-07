@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provenanceregistratie"
+    id="id-447f7203d9a34c7184484fe09068996d"
+    documentation="Het vastleggen van herkomstinformatie (provenance) bij metadata die in de gepubliceerde erfgoedinformatie geïntegreerd wordt."/>

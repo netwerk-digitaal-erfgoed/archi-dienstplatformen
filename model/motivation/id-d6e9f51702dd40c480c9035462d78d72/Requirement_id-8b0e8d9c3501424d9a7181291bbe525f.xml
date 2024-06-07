@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata vanuit de bron"
+    id="id-8b0e8d9c3501424d9a7181291bbe525f"
+    documentation="Het ophalen van de metadata bij de bron."/>

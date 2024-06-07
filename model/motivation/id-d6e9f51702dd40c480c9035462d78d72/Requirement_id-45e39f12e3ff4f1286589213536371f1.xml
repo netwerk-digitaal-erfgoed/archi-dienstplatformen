@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer via SPARQL-endpoint"
+    id="id-45e39f12e3ff4f1286589213536371f1"
+    documentation="Zorg dat de metadata via een SPARQL-endpoint gepubliceerd worden. Zo kan de metadata op eenduidige en krachtige wijze bevraagd worden door afnemers, waaronder door de dienst ''Vindbare termen in terminologiebronnen''."/>

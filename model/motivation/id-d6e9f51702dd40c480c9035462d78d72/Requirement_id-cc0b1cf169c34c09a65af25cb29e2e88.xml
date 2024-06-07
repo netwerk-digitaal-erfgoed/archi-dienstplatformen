@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer integriteit"
+    id="id-cc0b1cf169c34c09a65af25cb29e2e88"
+    documentation="Zorg dat informatie over de integriteit van de metadata wordt vastgelegd."/>

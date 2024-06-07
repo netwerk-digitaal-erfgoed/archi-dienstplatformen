@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer metadata van organisatie"
+    id="id-6e2ad957e4d34084ba6cce8489517cea"
+    documentation="Zorgdragen dat de metadata van een organisatie beheerd wordt.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

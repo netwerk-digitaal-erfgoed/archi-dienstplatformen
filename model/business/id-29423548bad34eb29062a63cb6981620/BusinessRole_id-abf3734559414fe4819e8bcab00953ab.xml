@@ -1,0 +1,18 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Makelaar"
+    id="id-abf3734559414fe4819e8bcab00953ab"
+    documentation="Een makelaar of mediator is, in de context van DERA, een persoon of organisatie die erfgoedinformatie transformeert, verbindt, combineert, aligneert, integreert of anderszins met elkaar in verband brengt.&#xD;&#xA;&#xD;&#xA;WAS:&#xD;&#xA;Een makelaar of mediator is, in de context van DERA, een persoon of organisatie die erfgoedinformatie verbindt, combineert, aligneert, integreert of anderszins met elkaar in verband brengt.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Synoniem"
+      value="Mediator"/>
+  <properties
+      key="Spellingvarianten"
+      value="makelaar, mediator, Makelaars, Mediators, makelaars, mediators"/>
+  <properties
+      key="Toelichting"
+      value="Opmerking: Een erfgoedinstelling die de rol van bronhouder vervult kan ook makelaar zijn. Een makelaar kan ook een derde partij zijn die erfgoedinformatie van verschillende bronhouders integreert. Een partij die als makelaar opereert, is tevens bronhouder metadata verrijkingen indien door de integratie van erfgoedinformatie een verrijking ontstaat."/>
+</archimate:BusinessRole>

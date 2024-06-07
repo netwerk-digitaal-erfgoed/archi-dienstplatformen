@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg dat de authenticiteit van erfgoedinformatie duidelijk is"
+    id="d4728842-001c-42b2-a220-b15e717c9662"
+    documentation="De gebruiker moet kunnen vaststellen dat erfgoedinformatie integer, betrouwbaar en authentiek is.">
+  <properties
+      key="Rationale"
+      value="Authenticiteit toont aan dat het informatieobject is wat het beweert te zijn, dat het is gemaakt of verzonden door de persoon of organisatie die beweert het te hebben gemaakt of verzonden en dat het is gemaakt en verzonden op het tijdstip als aangegeven bij het informatieobject (ontleend aan de NORA). Zie operationeel doel 2.&lt;br/>Alle handelingen (bijvoorbeeld migratie, normalisatie bij ontvangst) die in de loop der tijd met het informatieobject uitgevoerd worden, kunnen invloed hebben op de authenticiteit en dienen dus te worden verantwoord. Zie operationeel doel 4."/>
+  <properties
+      key="Uitspraak"
+      value="Zorg dat de authenticiteit van erfgoedinformatie duidelijk is"/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="1"/>
+</archimate:Principle>

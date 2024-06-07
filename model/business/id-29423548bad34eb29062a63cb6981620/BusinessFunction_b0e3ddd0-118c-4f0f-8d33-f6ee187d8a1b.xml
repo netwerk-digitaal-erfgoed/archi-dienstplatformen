@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie en autorisatie"
+    id="b0e3ddd0-118c-4f0f-8d33-f6ee187d8a1b"
+    documentation="Authenticatie en autorisatie betreft het zorgdragen dat alleen afnemers die hier recht op hebben toegang krijgen tot digitale informatieobjecten, zoals scans of films.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="&lt;p>Bij authenticatie wordt geverifieerd of de identiteit van de afnemer correct is. Bij autorisatie wordt bepaald of de afnemer recht heeft op de gevraagde informatie.&lt;/p>&lt;p>Rol: bronhouder digitaal informatieobject.&lt;/p>&lt;p>Requirements:&lt;ul>&lt;li>Zorg dat authenticatie en autorisatie van afnemers mogelijk is. Hiervoor zijn afspraken met dienst verleners nodig. Wanneer hier afspraken over zijn gemaakt, worden deze in een volgende versie van de DERA uitgewerkt.&lt;/li>&lt;/ul>&lt;/p>"/>
+  <properties
+      key="Spellingvarianten"
+      value="authenticatie en autorisatie"/>
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

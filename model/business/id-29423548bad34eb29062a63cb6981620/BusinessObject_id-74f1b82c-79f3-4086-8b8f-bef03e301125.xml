@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Term"
+    id="id-74f1b82c-79f3-4086-8b8f-bef03e301125"
+    documentation="Een term is een aanduiding van een entiteit of onderwerp. Zulke termen zijn, onder regie van een bronhouder, opgenomen in een terminologiebron.">
+  <properties
+      key="Toelichting"
+      value="De kern van een term wordt gevormd door een naam en een duurzame identifier, aangevuld met een beschrijving/definitie en andere relevante informatie die als referentiedata gebruikt kan worden. &lt;ul>&lt;li>Termen worden gebruikt bij of in de beschrijving van cultuurhistorische objecten en informatieobjecten.&lt;/li>&lt;li>Termen hebben betrekking op concepten (begrippen, categorieën, onderwerpen, etc.) of named entities (personen, plaatsen, gebeurtenissen, tijdsperiodes, etc.)&lt;/li>&lt;li> Termen kunnen onderlinge relaties hebben (bijv. synoniemen, hiërarchische relaties in een thesaurus, onderlinge verwijzingen, etc.)&lt;/li>&lt;/ul>"/>
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="term, Termen, termen"/>
+</archimate:BusinessObject>

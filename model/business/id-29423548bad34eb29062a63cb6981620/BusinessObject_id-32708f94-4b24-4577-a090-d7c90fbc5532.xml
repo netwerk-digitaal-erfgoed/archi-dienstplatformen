@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata"
+    id="id-32708f94-4b24-4577-a090-d7c90fbc5532"
+    documentation="Metagegevens of metadata zijn gegevens die context, inhoud, structuur en vorm van informatie en het beheer ervan door de tijd heen beschrijven.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="Het gaat om gestructureerde gegevens die andere objecten beschrijven. Het kan gaan over analoge of digitale objecten. Een object kan zowel een cultuurhistorisch object als een informatieobject zijn. Metagegevens zijn zelf ook informatieobjecten. De vier belangrijkste soorten metadata (ontleend aan het ABC Digitaal Erfgoed van DEN) zijn:&lt;ul>&lt;li>beschrijvende metadata (nodig voor het identificeren en vinden van objecten);&lt;/li>&lt;li>structurele metadata (deze leggen de relatie vast tussen individuele objecten die gezamenlijk een eenheid vormen);&lt;/li>&lt;li>technische metadata (informatie over de vervaardiging van het digitale object);&lt;/li>&lt;li>administratieve metadata (deze richten zich op beheer en management van objecten).&lt;/li>&lt;/ul>"/>
+  <properties
+      key="Synoniem"
+      value="Metagegevens"/>
+  <properties
+      key="Spellingvarianten"
+      value="metadata, metagegevens"/>
+  <properties
+      key="Bron"
+      value="Ontleend aan de NORA"/>
+</archimate:BusinessObject>

@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaarstelling"
+    id="id-15f45c6f-e70a-49dc-ba62-70e3a55bb09f"
+    documentation="Het verbinden en beschikbaar stellen van erfgoedinformatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="beschikbaarstelling"/>
+  <properties
+      key="Type"
+      value="DERA-keten"/>
+</archimate:BusinessFunction>

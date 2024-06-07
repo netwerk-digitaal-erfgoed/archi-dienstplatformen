@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bied een wijzigingsproces"
+    id="id-2a03317f7dfa4f6197c03b554974521e"
+    documentation="Zorg dat er een proces is voor het voorstellen en verwerken van aanpassingen van derden aan termen. Zo kunnen afnemers nieuwe termen aandragen of bestaande termen aanscherpen. Deze requirement benoemt niet hoe dit proces eruit moet zien, bijvoorbeeld geautomatiseerd of handmatig; dat dient een bronhouder zelf te bepalen."/>

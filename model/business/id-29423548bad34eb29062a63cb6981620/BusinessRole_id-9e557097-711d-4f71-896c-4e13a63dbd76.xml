@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlener"
+    id="id-9e557097-711d-4f71-896c-4e13a63dbd76"
+    documentation="Een dienstverlener is een persoon of organisatie die voorziet in het leveren van een dienst aan zijn omgeving (de afnemers).">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="dienstverlener, Dienstverleners, dienstverleners"/>
+  <properties
+      key="Toelichting"
+      value="De DERA gebruikt de term dienstverlener in relatie tot het leveren van diensten aan eindgebruikers en in relatie tot diensten die bronhouders, beheerders van netwerkvoorzieningen en makelaars onderling aan elkaar en/of aan andere dienstverleners leveren."/>
+</archimate:BusinessRole>

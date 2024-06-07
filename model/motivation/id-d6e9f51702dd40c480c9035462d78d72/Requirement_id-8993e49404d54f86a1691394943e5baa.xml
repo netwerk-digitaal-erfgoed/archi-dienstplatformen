@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwijs naar digitale representatie"
+    id="id-8993e49404d54f86a1691394943e5baa"
+    documentation="Voeg in de metadata van een object een verwijzing naar de digitale representatie van dat object op, als dat technisch en juridisch mogelijk is."/>

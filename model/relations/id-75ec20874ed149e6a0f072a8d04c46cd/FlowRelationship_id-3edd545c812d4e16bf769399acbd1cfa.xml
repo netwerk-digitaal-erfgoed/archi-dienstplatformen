@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="metadata van datasets"
+    id="id-3edd545c812d4e16bf769399acbd1cfa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ce943e56a9c44094ac8c4b17b578528d.xml#id-ce943e56a9c44094ac8c4b17b578528d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-86b70b5dc687473cb10b7df564ae3cda.xml#id-86b70b5dc687473cb10b7df564ae3cda"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer in Schema.org of FOAF"
+    id="id-fc305f3f41354f99b43f1db592d7ba21"
+    documentation="Zorg dat de metadata als linked open data gepubliceerd worden volgens Schema.org of anders FOAF (voor gebruik bij DCAT; zie bedrijfsfunctie ''Publicatie metadata van datasets'')."/>

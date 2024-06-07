@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg voor eenduidige beschrijving van erfgoedinformatie"
+    id="f7fa3b15-16c8-4e87-aaf7-5e2c82047713"
+    documentation="Erfgoedinformatie moet zodanig zijn beschreven dat het voor een gebruiker altijd duidelijk is wat voor soort erfgoed het betreft en in welke vorm. Soortgelijke erfgoedinformatie moet op dezelfde manier zijn beschreven. Beschrijvingen van erfgoedinformatie houden rekening met de door de bronhouder veronderstelde kennis bij de gebruiker.">
+  <properties
+      key="Rationale"
+      value="Eenduidige beschrijvingen helpen de gebruiker de bruikbaarheid van erfgoedinformatie vast te stellen. Zie operationeel doel 2.&lt;br/>De eenduidige beschrijving vormt de context en maakt verder navigeren mogelijk. Zie operationeel doel 1."/>
+  <properties
+      key="Uitspraak"
+      value="Zorg voor eenduidige beschrijving van erfgoedinformatie"/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="4"/>
+</archimate:Principle>

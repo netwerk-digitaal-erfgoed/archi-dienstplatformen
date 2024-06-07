@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruiker kan informatie toevoegen"
+    id="id-5151b934-b362-4a4a-bd70-964e45d5913f"
+    documentation="Gebruikers moeten de gezamenlijke erfgoedinformatie kunnen combineren met andere informatie, of informatie kunnen toevoegen. Dit varieert van het toevoegen van nieuwe informatie, met als doel deze publiek te maken (zoals bij crowdsourcing), tot het toevoegen van vertrouwelijke informatie voor persoonlijk gebruik (zoals binnen de wetenschap nodig kan zijn). De toegevoegde informatie kan nieuwe informatie zijn (zoals bij genealogische toepassingen), of bestaande informatie (zoals Wikipedia). De bronhouder kan besluiten of de toegevoegde informatie geschikt is om opgenomen te worden in het eigen bronsysteem.">
+  <properties
+      key="Rationale"
+      value="Ook buiten de gezamenlijke erfgoedinformatie is informatie aanwezig die relevant is voor een of meerdere gebruikers. Dit kan niet-publieke informatie van de gebruiker zelf zijn of een informatiebron van derden. De gebruiker moet deze kunnen combineren met de gezamenlijke erfgoedinformatie."/>
+  <properties
+      key="Implicaties"
+      value="1. Om externe informatie te kunnen relateren aan gezamenlijke erfgoedinformatie moet deze laatste verwijsbaar zijn. Zie principe 6.&lt;br/>2. Als externe informatie wordt opgenomen binnen de beheerde gezamenlijke erfgoedinformatie, dan moeten de authenticiteit en de beschikbaarheid daarvan duidelijk zijn. De externe informatie moet verwijzen naar de gezamenlijke erfgoedinformatie. Zie principe 1, principe 2 en principe 5.&lt;br/>3. Als externe informatie wordt opgenomen binnen de beheerde gezamenlijke erfgoedinformatie, moet deze eenduidig zijn beschreven en herkenbaar, gebruiksvriendelijk en verwijsbaar worden aangeboden. Zie principe 3, principe 4 en principe 6."/>
+  <properties
+      key="ID"
+      value="3"/>
+  <properties
+      key="Type"
+      value="Operationeel doel"/>
+  <properties
+      key="Uitspraak"
+      value="Gebruiker kan informatie toevoegen"/>
+</archimate:Goal>

@@ -1,0 +1,18 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruiker"
+    id="b46f05b3-265c-42d2-96aa-3aeeabebc6a3"
+    documentation="Een persoon die gebruik maakt van erfgoedinformatie.">
+  <properties
+      key="Synoniem"
+      value="Eindgebruiker"/>
+  <properties
+      key="Toelichting"
+      value="Er is sprake van een grote variëteit aan gebruikers van erfgoedinformatie:&lt;ul>&lt;li>burgers, bedrijven, leraren, leerlingen, enzovoorts;&lt;/li>&lt;li>overheidsorganisaties, bijvoorbeeld Basisregistraties, Ministeries, CBS, enzovoorts.&lt;/li>&lt;/ul>De DERA richt zich niet op informatiebehoeften van specifieke gebruikers, maar op generieke behoeften van afnemers. Daarom worden geen specifieke doelgroepen gedefinieerd. Voor de DERA is de rol van afnemer voldoende."/>
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="gebruiker, Gebruikers, gebruikers"/>
+</archimate:BusinessActor>

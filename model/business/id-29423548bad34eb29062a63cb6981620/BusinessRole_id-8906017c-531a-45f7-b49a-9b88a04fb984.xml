@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rechthebbende"
+    id="id-8906017c-531a-45f7-b49a-9b88a04fb984"
+    documentation="De rechthebbende bezit een deel of het geheel van het intellectuele eigendom (auteursrecht, naburige rechten) of andersoortige rechten (bijvoorbeeld portretrecht, of rechten op grond van de AVG) op een of meerdere erfgoedobjecten. Gebruik van deze erfgoedobjecten is afhankelijk van vooraf verkregen toestemming van de rechthebbende(n).">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="rechthebbende, Rechthebbenden, rechthebbenden"/>
+</archimate:BusinessRole>

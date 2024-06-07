@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer als onderdeel van catalogus"
+    id="id-126670ad82914b5180cf97256492b503"
+    documentation="Zorg dat de metadata als onderdeel van een catalogus gepubliceerd worden. Zo kunnen afnemers achterhalen welke datasets een bronhouder aanbiedt."/>

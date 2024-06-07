@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegangsbeheercomponent"
+    id="id-55847246beb244749e94868df085ea27"
+    documentation="Component die de toegang tot informatieobjecten beheert, rekening houdend met rechteninformatie en eventuele afnemer- of (doel)groepspecifieke beperkingen (Bijvoorbeeld wanneer informatieobjecten niet beschikbaar zijn voor algemeen publiek, maar alleen voor een specifieke doelgroep zoals onderwijs of onderzoek. Een dergelijke beperking vereist dat alle gebruikers worden geïdentificeerd.)."/>

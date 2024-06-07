@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dataset"
+    id="c775e980-c7a3-48d0-9888-24e29a779471"
+    documentation="Een dataset is een verzameling van metadata, al dan niet aangevuld met informatieobjecten die door die metadata worden beschreven.">
+  <properties
+      key="Toelichting"
+      value="Een dataset bevat in ieder geval metadata, mogelijk ook informatieobjecten."/>
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="dataset, Datasets, datasets"/>
+</archimate:BusinessObject>

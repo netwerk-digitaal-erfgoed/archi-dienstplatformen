@@ -1,0 +1,18 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leverancier"
+    id="d7b55bd7-16b4-4f99-b711-eaf57f23bd37"
+    documentation="Een leverancier is een partij die IT-functionaliteit biedt voor het inwinnen, beheren, publiceren en/of ontsluiten van erfgoedinformatie ten behoeve van bepaalde diensten.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Voorbeelden"
+      value="Voorbeelden hiervan zijn:&lt;ul>&lt;li>een partij die software voor het beheren van erfgoedinformatie levert en realiseert, zoals een collectiebeheersysteem of een beeldbank;&lt;/li>&lt;li>een partij die een portaal bouwt en onderhoudt.&lt;/li>&lt;/ul>"/>
+  <properties
+      key="Toelichting"
+      value="Het kan hierbij zowel gaan om commerciële als om niet-commerciële partijen."/>
+  <properties
+      key="Spellingvarianten"
+      value="leverancier, Leveranciers, leveranciers"/>
+</archimate:BusinessActor>

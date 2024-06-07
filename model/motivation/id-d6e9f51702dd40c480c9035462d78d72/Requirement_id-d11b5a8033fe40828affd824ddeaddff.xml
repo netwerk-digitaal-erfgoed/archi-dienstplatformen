@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer in Schema.org of DCAT"
+    id="id-d11b5a8033fe40828affd824ddeaddff"
+    documentation="Zorg dat de metadata als linked open data gepubliceerd worden volgens Schema.org of anders DCAT."/>

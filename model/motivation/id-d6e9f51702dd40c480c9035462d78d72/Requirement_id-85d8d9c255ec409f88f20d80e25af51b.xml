@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer betekenis"
+    id="id-85d8d9c255ec409f88f20d80e25af51b"
+    documentation="Zorg dat de betekenis van termen duidelijk is voor afnemers. Elke term dient in elk geval een naam en beschrijving te hebben, maar ook een typering die duidelijk maakt wat de aard van de term is, zoals een onderwerp, persoon of plaats."/>

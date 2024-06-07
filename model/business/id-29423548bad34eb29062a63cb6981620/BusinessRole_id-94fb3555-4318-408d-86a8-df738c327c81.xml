@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheerder netwerkvoorziening"
+    id="id-94fb3555-4318-408d-86a8-df738c327c81"
+    documentation="Een organisatie die verantwoordelijk is voor het in stand houden van een netwerkvoorziening.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="beheerder netwerkvoorziening"/>
+  <properties
+      key="Toelichting"
+      value="Deze organisatie draagt zorg voor alle relevante beheeraspecten, zoals functioneel en technisch beheer (ofschoon de organisatie dat niet per se zelf hoeft te doen; hij kan het ook uitbesteden)."/>
+</archimate:BusinessRole>

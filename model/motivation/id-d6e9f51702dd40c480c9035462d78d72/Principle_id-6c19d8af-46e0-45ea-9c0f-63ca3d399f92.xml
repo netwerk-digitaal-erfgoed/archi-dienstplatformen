@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorg dat de beschikbaarheid van erfgoedinformatie duidelijk is"
+    id="id-6c19d8af-46e0-45ea-9c0f-63ca3d399f92"
+    documentation="De gebruiker moet de beschikbaarheid van erfgoedinformatie kunnen vaststellen. Dit betreft zowel de vorm van beschikbaarheid (toegang, autorisatie, formaat) als de termijn (is een video op lange termijn beschikbaar en kan deze dan nog worden gestreamd?).">
+  <properties
+      key="Rationale"
+      value="De beschikbaarheid bepaalt of en hoe de gebruiker erfgoedinformatie direct kan gebruiken en of die op lange termijn ook nog kan worden gebruikt, bijvoorbeeld wanneer onderzoeksresultaten moeten worden geverifieerd. De bronhouder heeft de verantwoordelijkheid om voldoende relevante informatie vast te leggen op basis waarvan de gebruiker de bruikbaarheid en de interpreteerbaarheid van erfgoed informatie kan inschatten. Dit kan voor digitale informatieobjecten en voor metadata verschillend uitpakken. Zie operationeel doel 2 en operationeel doel 4."/>
+  <properties
+      key="Uitspraak"
+      value="Zorg dat de beschikbaarheid van erfgoedinformatie duidelijk is"/>
+  <properties
+      key="Type"
+      value="Principe"/>
+  <properties
+      key="ID"
+      value="2"/>
+</archimate:Principle>

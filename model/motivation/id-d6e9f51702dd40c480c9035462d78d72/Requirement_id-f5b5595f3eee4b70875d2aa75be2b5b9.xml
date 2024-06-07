@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer beschikbaarheid"
+    id="id-f5b5595f3eee4b70875d2aa75be2b5b9"
+    documentation="Zorg dat informatie over de verwachte beschikbaarheid van de metadata gepubliceerd wordt. Zo weten afnemers hoelang metadata beschikbaar blijven."/>

@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="M2M-interactie"
+    id="id-da978226a05441ac9a371f92915a7fb5"
+    documentation="Het bieden van machine-machine-interactie (zoals API’s) voor het raadplegen van erfgoedinformatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+</archimate:ApplicationFunction>

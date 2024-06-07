@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer versies"
+    id="id-5ab1105d41aa4a28b6bb956762445e69"
+    documentation="Zorg dat versies van de metadata gepubliceerd (blijven) worden (bijvoorbeeld volgens het Memento-protocol): afnemers kunnen eerdere versies gebruiken dan de huidige versie. Uitzondering: soms zijn er wettelijke eisen waardoor eerdere versies van de metadata niet (langer) gepubliceerd mogen worden, bijvoorbeeld in verband met privacy- of auteursrecht."/>

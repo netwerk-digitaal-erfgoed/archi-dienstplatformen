@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gedigitaliseerd erfgoed"
+    id="id-7f735efd-6b71-40a5-9987-4aba3713691f"
+    documentation="Erfgoedmateriaal dat van origine niet digitaal is, maar waarvan door middel van digitalisering een reproductie is gemaakt.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="gedigitaliseerd informatieobject, gedigitaliseerde informatieobjecten, gedigitaliseerd erfgoed"/>
+  <properties
+      key="Synoniem"
+      value="Gedigitaliseerd informatieobject"/>
+  <properties
+      key="Toelichting"
+      value="Gedigitaliseerd erfgoed komt overeen met de definitie van digitaal informatieobject en betreft dus altijd een informatieobject."/>
+  <properties
+      key="Bron"
+      value="Ontleend aan het ABC Digitaal Erfgoed van DEN"/>
+</archimate:BusinessObject>

@@ -1,0 +1,16 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlener voor creëren met objecten"
+    id="id-d5d43cbf181a4aa3987d3d59f95e87bd"
+    documentation="Biedt een dienst gericht op iets creëren op basis van content op het internet of uploaden van eigen creaties online.">
+  <properties
+      key="Begrippenlijst"
+      value="Nee"/>
+  <properties
+      key="Spellingvarianten"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Bron"
+      value="Gedragsprofielen Digitaal Erfgoed - Functionele specificaties, versie 1.0, juni 2021"/>
+</archimate:BusinessRole>

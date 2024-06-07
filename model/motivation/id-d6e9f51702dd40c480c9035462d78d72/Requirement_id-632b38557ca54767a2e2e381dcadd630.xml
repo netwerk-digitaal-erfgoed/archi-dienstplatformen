@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer in Schema.org"
+    id="id-632b38557ca54767a2e2e381dcadd630"
+    documentation="Zorg dat de metadata als linked open data gepubliceerd worden volgens Schema.org, om de algemene vindbaarheid van metadata te verbeteren."/>

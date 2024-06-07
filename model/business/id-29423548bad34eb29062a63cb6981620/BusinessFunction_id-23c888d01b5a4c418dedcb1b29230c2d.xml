@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registratie metadata van datasets bij dienst 'Vindbare datasets'"
+    id="id-23c888d01b5a4c418dedcb1b29230c2d"
+    documentation="Zorgdragen dat de metadata van datasets geregistreerd worden bij de dienst ''Vindbare datasets''. De datasets worden hierdoor op uniforme, sectoroverschrijdende wijze vindbaar voor afnemers in het Netwerk Digitaal Erfgoed. Deze bedrijfsfunctie vereist dat een bronhouder de metadata van haar datasets al aanbiedt via de dienst ''Gepubliceerde metadata van datasets''.">
+  <properties
+      key="Type"
+      value="Bedrijfsfunctie"/>
+</archimate:BusinessFunction>

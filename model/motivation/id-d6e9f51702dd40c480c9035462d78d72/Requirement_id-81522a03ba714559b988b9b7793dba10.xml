@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer relaties"
+    id="id-81522a03ba714559b988b9b7793dba10"
+    documentation="Zorg dat relaties met termen in andere terminologiebronnen vastgelegd worden. Bijvoorbeeld door aan te geven dat een term in bron A gelijk is aan een term in bron B. Relaties maken erfgoedinformatie beter verbindbaar en vindbaar. Een bronhouder bepaalt zelf met welke andere terminologiebronnen relaties gelegd worden. Bijvoorbeeld met zoveel mogelijk bronnen of enkel met een bron die volgens de bronhouder de meeste autoriteit heeft."/>

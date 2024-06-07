@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruiker kan ongehinderd door erfgoedinformatie navigeren"
+    id="d3bb322a-f4b4-4ca5-9c1f-c67228bf07b4"
+    documentation="De gebruiker moet op een efficiënte manier relevante erfgoedinformatie kunnen selecteren en de context van deze informatie kunnen opvragen, zonder hierbij te worden gehinderd door het feit dat erfgoedinformatie door verschillende instellingen wordt beheerd en aangeboden.">
+  <properties
+      key="Rationale"
+      value="Niet het aanbod van een erfgoedinstelling, maar de vraag van een gebruiker staat centraal. Deze vraag zal het aanbod van een individuele erfgoedinstelling kunnen overstijgen."/>
+  <properties
+      key="Implicaties"
+      value="Bij de beschrijving van erfgoedinformatie staat semantische verbinding centraal:&lt;br/>1. Erfgoedinformatie moet op een eenduidige manier worden aangeboden en gepresenteerd. Zie principe 3 en principe 4.&lt;br/>2. De context van erfgoedinformatie kan worden beheerd en aangeboden door een andere erfgoed instelling, waarbij eenduidig moet worden verwezen naar de bronhouder. Zie principe 5 en principe 6."/>
+  <properties
+      key="ID"
+      value="1"/>
+  <properties
+      key="Type"
+      value="Operationeel doel"/>
+  <properties
+      key="Uitspraak"
+      value="Gebruiker kan ongehinderd navigeren"/>
+</archimate:Goal>

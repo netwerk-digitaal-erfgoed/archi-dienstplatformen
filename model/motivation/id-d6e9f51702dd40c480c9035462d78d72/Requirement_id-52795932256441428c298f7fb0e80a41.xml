@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doorzoekbaar via zoekingang"
+    id="id-52795932256441428c298f7fb0e80a41"
+    documentation="De metadata van termen zijn doorzoekbaar via een zoekingang. De dienst raadpleegt hiertoe gelijktijdig de diensten ''Gepubliceerde metadata van termen in terminologiebron'' van de bronhouders.">
+  <properties
+      key="Type"
+      value="FR"/>
+</archimate:Requirement>

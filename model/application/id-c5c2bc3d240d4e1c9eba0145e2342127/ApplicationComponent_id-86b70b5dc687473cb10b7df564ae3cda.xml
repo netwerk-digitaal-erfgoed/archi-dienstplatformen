@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datasetregister"
+    id="id-86b70b5dc687473cb10b7df564ae3cda"
+    documentation="In het Datasetregister (implementatie van de dienst ‘Vindbare datasets’) worden metadata van datasets vastgelegd. Deze laten afnemers van de netwerkvoorzieningen zien welke organisaties deel nemen aan het erfgoednetwerk en welke datasets met erfgoedinformatie zij ter beschikking stellen. Zie ook de beschrijving van het architectuurpatroon [[Vindbaar maken van organisaties en datasets]]."/>

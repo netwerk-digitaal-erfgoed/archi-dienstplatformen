@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publiceer distributies"
+    id="id-82f97eff6dc34c38a1d3dffaeea28c8d"
+    documentation="Zorg dat informatie over de technische vormen waarin datasets beschikbaar zijn gepubliceerd wordt (zogeheten ‘distributies’). Een dataset kan bijvoorbeeld gedownload worden als ‘datadump’ of bevraagd worden via een SPARQL-endpoint."/>

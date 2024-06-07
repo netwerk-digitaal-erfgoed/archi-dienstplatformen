@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Knowledge Graph"
+    id="id-f98de68ca0234722a43190e3d402eaab"
+    documentation="In een Knowledge Graph komt informatie samen en wordt deze voorzien van extra verbindingen zodat erfgoedinformatie in context bevraagd kan worden. De Knowledge Graph maakt het mogelijk verbindingen te vinden tussen de erfgoedinformatie die bronhouders publiceren. Bijvoorbeeld: de ene bronhouder heeft informatie over een kunstvoorwerp, de andere over diens maker, een derde over de kunststroming waaronder het valt. De Knowledge Graph extraheert deze verbindingen en maakt ze bevraagbaar voor dienstverleners.&#xD;&#xA;&#xD;&#xA;Zie ook de beschrijving van het architectuurpatroon [[Vindbaar maken van verbindingen in erfgoedinformatie]]."/>

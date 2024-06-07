@@ -1,0 +1,21 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruiker kan de duurzame toegankelijkheid van erfgoedinformatie vaststellen"
+    id="id-326a880fdedb4d5ab9fa59a5ea98d2f6"
+    documentation="De gebruiker moet kunnen vaststellen of de erfgoedinformatie duurzaam toegankelijk is. Erfgoedinformatie moet, zolang dat nodig is, door de tijd heen vindbaar, toegankelijk en interpreteer baar zijn voor de gebruiker.&#xD;&#xA;&#xD;&#xA;Erfgoedinstellingen dienen daarbij aan te geven wie de doelgroep(en) zijn waarvoor deze informatie toegankelijk gemaakt is. Interpreteerbaarheid van erfgoedinformatie is mede afhankelijk van bestands formaten, software en hardware en de ‘knowledge base’(*) van de gebruiker. &#xD;&#xA;&#xD;&#xA;&lt;sub>&lt;small>(*) Met ‘knowledge base’ bedoelen we: alle instrumenten die een gebruiker voorhanden moet hebben om informatie te kunnen begrijpen. Dat betekent: technische hulpmiddelen als hardware, software, besturingssystemen. Maar ook kennis van de taal of bijvoorbeeld kunnen lezen of horen. Als bronhouder kun je dit niet allemaal vooraf weten, maar je dient zoveel mogelijk informatie vast te leggen op basis waarvan een gebruiker, nu en in de toekomst, erfgoedinformatie kan vinden, openen en begrijpen.&lt;/small>&lt;/sub>">
+  <properties
+      key="Rationale"
+      value="Gebruikers moeten kunnen vaststellen dat erfgoedinformatie integer, betrouwbaar en authentiek is. Dat betekent dat er vastgesteld moet kunnen worden door de gebruiker, en aangetoond door de erfgoedinstelling, dat erfgoedinformatie niet onbedoeld veranderd is. Tevens moet de gebruiker kunnen vaststellen wat er nodig is om erfgoedinformatie te kunnen interpreteren."/>
+  <properties
+      key="Implicaties"
+      value="1. De authenticiteit van erfgoedinformatie moet zijn vastgelegd en gepubliceerd. Zie principe 1 en principe 2.&lt;br/>2. Eventuele veranderingen aan erfgoedinformatie dienen te worden vastgelegd. Zie principe 2.&lt;br/>3. De integriteit van erfgoedinformatie moet (middels regelmatige controles) zijn vastgelegd. Zie principe 2.&lt;br/>4. De duurzame toegankelijkheid van erfgoedinformatie moet zijn vastgelegd en gepubliceerd. Zie principe 2.&lt;br/>5. Erfgoedinstellingen moeten daar waar mogelijk informatie beschikbaar maken om gebruikers te ondersteunen bij interpretatie van erfgoedinformatie over de tijd heen. Zie principe 2."/>
+  <properties
+      key="ID"
+      value="4"/>
+  <properties
+      key="Type"
+      value="Operationeel doel"/>
+  <properties
+      key="Uitspraak"
+      value="Gebruiker kan de duurzame toegankelijkheid van erfgoedinformatie vaststellen"/>
+</archimate:Goal>

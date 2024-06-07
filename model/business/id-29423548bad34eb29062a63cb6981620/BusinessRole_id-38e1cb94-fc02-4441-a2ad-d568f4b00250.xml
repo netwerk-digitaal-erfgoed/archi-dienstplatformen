@@ -1,0 +1,15 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Producent"
+    id="id-38e1cb94-fc02-4441-a2ad-d568f4b00250"
+    documentation="Een producent is een persoon of organisatie die een cultuurhistorisch object of informatieobject creëert.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Toelichting"
+      value="De producent kan in de regel aanspraak maken op rechten op het geproduceerde object, zoals auteursrechten of naburige rechten, en is in dat geval tevens een rechthebbende."/>
+  <properties
+      key="Spellingvarianten"
+      value="producent, Producenten, producenten"/>
+</archimate:BusinessRole>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer wijzigingen"
+    id="id-0cf955a39b2945f5a8bd7e5e5b618f8a"
+    documentation="Zorg dat aanpassingen aan termen vastgelegd worden (‘changelog’), zoals de wijziging van de naam of de wijziging van de plek van een term in een thesaurushiërarchie."/>

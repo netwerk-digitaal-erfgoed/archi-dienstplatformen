@@ -1,0 +1,16 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dienstverlener voor browsen en ontdekken"
+    id="id-0062d1bb52664c2fb879eadc05827557"
+    documentation="Biedt een dienst gericht op dwalen om stil te staan bij en zich te verdiepen in objecten/zaken die interesse wekken.">
+  <properties
+      key="Begrippenlijst"
+      value="Nee"/>
+  <properties
+      key="Spellingvarianten"/>
+  <properties
+      key="Toelichting"/>
+  <properties
+      key="Bron"
+      value="Gedragsprofielen Digitaal Erfgoed - Functionele specificaties, versie 1.0, juni 2021"/>
+</archimate:BusinessRole>

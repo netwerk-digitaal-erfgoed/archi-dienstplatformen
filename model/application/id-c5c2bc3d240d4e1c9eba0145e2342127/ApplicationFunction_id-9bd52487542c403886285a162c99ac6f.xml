@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IAA"
+    id="id-9bd52487542c403886285a162c99ac6f"
+    documentation="Het, op basis van identificatie, authenticatie en autorisatie, bieden van toegang of het weigeren van toegang indien de afnemer niet geautoriseerd is voor toegang tot de erfgoedinformatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+</archimate:ApplicationFunction>

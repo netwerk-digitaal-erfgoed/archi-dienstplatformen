@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Duurzaam toegankelijk"
+    id="id-a50053142c5b49fdab31efdecdb5d4ab"
+    documentation="De metadata zijn duurzaam toegankelijk.">
+  <properties
+      key="Type"
+      value="NFR"/>
+</archimate:Requirement>

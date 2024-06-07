@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Registreer inhoud"
+    id="id-35575adbe03948239b2389a167350b6d"
+    documentation="Zorg dat de metadata de inhoud van de datasets duidelijk maken voor afnemers. De metadata dient in elk geval de naam en een beschrijving van een dataset te bevatten. De metadata kan ook bestaan uit de onderwerpen van de dataset, de talen waarin de dataset beschikbaar is of de plaatsen of tijdsperiodes waarop de dataset betrekking heeft.&#xD;&#xA;&#xD;&#xA;Zie verder https://netwerk-digitaal-erfgoed.github.io/requirements-datasets/"/>
