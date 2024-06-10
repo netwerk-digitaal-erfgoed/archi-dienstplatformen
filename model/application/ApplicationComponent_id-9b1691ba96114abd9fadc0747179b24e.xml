@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data-opnamecomponent (copy)"
+    id="id-9b1691ba96114abd9fadc0747179b24e"
+    documentation="Component die ingekomen data controleert op correctheid en volledigheid en de data uniformeert zodat deze geschikt is voor beheer."/>
