@@ -217,15 +217,6 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-e990ee04ef3f45728e75914e845dc3e5"
-          source="id-f27a197fff034505ae1791a15e9b35b5"
-          target="id-d2e65d86ea3f4cbf92b4dc623fb20441">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-c55430c107154e08a414b1de02ee4503.xml#id-c55430c107154e08a414b1de02ee4503"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-55cbca81a338492cb65d5dd4df62b5f1"
           source="id-f27a197fff034505ae1791a15e9b35b5"
           target="id-c230000c983043efa9f8575c73f628e3">
@@ -242,15 +233,6 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-08b33f1928474c64a633c6ead3802997"
           targetConnections="id-0b9736a8e98f40cb9b5e9862d6e682ad id-bd375656147240948a5bb7c985979d35 id-c9ee051cf9d745669fa2c2cf6daac1f1">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-b6044fbade624dea9d6e8f3628470bd0"
-            source="id-08b33f1928474c64a633c6ead3802997"
-            target="id-d2e65d86ea3f4cbf92b4dc623fb20441">
-          <archimateRelationship
-              xsi:type="archimate:RealizationRelationship"
-              href="RealizationRelationship_id-26f1b3eba536404ba8fd3256a94878d8.xml#id-26f1b3eba536404ba8fd3256a94878d8"/>
-        </sourceConnections>
         <bounds
             x="24"
             y="36"
@@ -294,7 +276,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-d2e65d86ea3f4cbf92b4dc623fb20441"
-          targetConnections="id-e990ee04ef3f45728e75914e845dc3e5 id-b10d31b195504554b3e7b19157c60209 id-b6044fbade624dea9d6e8f3628470bd0">
+          targetConnections="id-b10d31b195504554b3e7b19157c60209">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-23636c0e0ab546bea0e53f29ff2546d2"
