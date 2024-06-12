@@ -81,4 +81,15 @@
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-3bc8103a-d379-49e6-a91e-0122cde97055.xml#id-3bc8103a-d379-49e6-a91e-0122cde97055"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1ce6a2a2fa9a41d5909544a318cf3dae"
+      textAlignment="1"
+      content="Rijksdienst voor cultureel erfgoed">
+    <bounds
+        x="617"
+        y="81"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
