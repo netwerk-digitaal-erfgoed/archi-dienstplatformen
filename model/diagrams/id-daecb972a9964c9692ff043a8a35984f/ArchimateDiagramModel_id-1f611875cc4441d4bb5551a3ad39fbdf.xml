@@ -84,12 +84,13 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-1108d84bc8c74748978e79d0a3904f00"
+      font="1|Sans|14.0|0|GTK|1|"
       textAlignment="1"
       content="Kasteel Amerongen ">
     <bounds
         x="612"
         y="49"
-        width="185"
+        width="217"
         height="80"/>
   </children>
   <children
@@ -140,9 +141,9 @@
       id="id-744a44cabf3c4bb48f4a96f0f15c38a0"
       textAlignment="1">
     <bounds
-        x="900"
-        y="396"
-        width="400"
+        x="840"
+        y="384"
+        width="280"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -163,16 +164,16 @@
           href="RealizationRelationship_id-fa4c8517e55442c49392b6aa6197e0a3.xml#id-fa4c8517e55442c49392b6aa6197e0a3"/>
     </sourceConnections>
     <bounds
-        x="48"
-        y="240"
-        width="400"
+        x="444"
+        y="228"
+        width="576"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7ce47d8c2c3a4b849ae2a8e24fadaf55"
         targetConnections="id-2567c7b3d5a7494290e0f8ee9ac9c208 id-fcbea18e69d947ccab7692d247aa1d84">
       <bounds
-          x="192"
+          x="216"
           y="48"
           width="120"
           height="55"/>
