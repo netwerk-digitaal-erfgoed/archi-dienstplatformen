@@ -17,7 +17,7 @@
           href="SpecializationRelationship_id-77bf73c3db1c4562a907037df61ad9ad.xml#id-77bf73c3db1c4562a907037df61ad9ad"/>
     </sourceConnections>
     <bounds
-        x="192"
+        x="264"
         y="360"
         width="144"
         height="55"/>
@@ -39,7 +39,7 @@
           href="SpecializationRelationship_id-d8a1fd3fe8fa4ed6818c733b9813eb39.xml#id-d8a1fd3fe8fa4ed6818c733b9813eb39"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="288"
         y="433"
         width="120"
         height="55"/>
@@ -348,17 +348,6 @@
         y="341"
         width="120"
         height="147"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-ca5855e1701c4091b41686d64108a9d6">
-      <bounds
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-cea55b294cb744819031aa2a54ca8cc3.xml#id-cea55b294cb744819031aa2a54ca8cc3"/>
-    </children>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
         href="SystemSoftware_id-74c452269bc94f07acb9eea5efc7f66d.xml#id-74c452269bc94f07acb9eea5efc7f66d"/>
