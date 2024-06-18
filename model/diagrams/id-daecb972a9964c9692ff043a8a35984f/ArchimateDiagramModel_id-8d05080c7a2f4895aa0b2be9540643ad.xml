@@ -39,7 +39,7 @@
           href="SpecializationRelationship_id-d8a1fd3fe8fa4ed6818c733b9813eb39.xml#id-d8a1fd3fe8fa4ed6818c733b9813eb39"/>
     </sourceConnections>
     <bounds
-        x="288"
+        x="264"
         y="433"
         width="120"
         height="55"/>
@@ -429,5 +429,29 @@
     <archimateElement
         xsi:type="archimate:BusinessFunction"
         href="BusinessFunction_id-3bc8103a-d379-49e6-a91e-0122cde97055.xml#id-3bc8103a-d379-49e6-a91e-0122cde97055"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-85f087bdb7f64d76bdc891dc32ef1973">
+    <bounds
+        x="1305"
+        y="534"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-404fe8222c8c4407b7ddfe365cdcb7e2.xml#id-404fe8222c8c4407b7ddfe365cdcb7e2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ebe5d966633b4a62b63ef6cbe896db8f">
+    <bounds
+        x="1343"
+        y="435"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-e4143c274f884480988ba0833e06e46b.xml#id-e4143c274f884480988ba0833e06e46b"/>
   </children>
 </archimate:ArchimateDiagramModel>
