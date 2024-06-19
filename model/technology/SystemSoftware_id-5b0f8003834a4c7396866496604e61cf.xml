@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ginger/Zotonic"
-    id="id-5b0f8003834a4c7396866496604e61cf"/>
+    id="id-5b0f8003834a4c7396866496604e61cf"
+    documentation="Zotonic is the open source, high speed, real-time web framework and content management system, built with Erlang."/>
