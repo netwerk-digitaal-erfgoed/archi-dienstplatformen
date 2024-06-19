@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Zuiderzee Collectie"
+    name="Zuiderzeecollectie"
     id="id-285c1a487e5e4dfca5933b7b879f3511">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -587,7 +587,7 @@
             x="12"
             y="144"
             width="120"
-            height="55"/>
+            height="97"/>
         <archimateElement
             xsi:type="archimate:SystemSoftware"
             href="SystemSoftware_id-a1ce0ab1ba9f42bda7d9c4c3109f8338.xml#id-a1ce0ab1ba9f42bda7d9c4c3109f8338"/>
