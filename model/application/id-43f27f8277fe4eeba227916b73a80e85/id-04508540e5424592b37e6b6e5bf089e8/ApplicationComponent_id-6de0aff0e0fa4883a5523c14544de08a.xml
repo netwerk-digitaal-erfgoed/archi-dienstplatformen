@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Amsterdam Diaries] Gestructureerd-databestand-opnamepunt"
+    id="id-6de0aff0e0fa4883a5523c14544de08a"
+    documentation="Opnamepunt die gestructureerde databestanden in formaten zoals CSV, XML, JSON, etc. opneemt."/>
