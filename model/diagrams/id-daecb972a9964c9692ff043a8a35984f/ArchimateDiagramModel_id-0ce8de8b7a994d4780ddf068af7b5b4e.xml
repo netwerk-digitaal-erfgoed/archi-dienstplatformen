@@ -272,8 +272,8 @@
             href="RealizationRelationship_id-0a3e7b8c508c46a4a92f44312f3e9a0f.xml#id-0a3e7b8c508c46a4a92f44312f3e9a0f"/>
       </sourceConnections>
       <bounds
-          x="120"
-          y="24"
+          x="24"
+          y="36"
           width="157"
           height="91"/>
       <archimateElement
@@ -583,5 +583,17 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-c6c4cd93e3294818ae1af4dd3cadf522.xml#id-c6c4cd93e3294818ae1af4dd3cadf522"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c171a9d0077242bcbc3d09fa1b15dd22">
+    <bounds
+        x="36"
+        y="372"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_becec84e-5a26-40a7-9ff1-76c7a0de11f3.xml#becec84e-5a26-40a7-9ff1-76c7a0de11f3"/>
   </children>
 </archimate:ArchimateDiagramModel>
