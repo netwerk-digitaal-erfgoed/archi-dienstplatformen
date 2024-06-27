@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Zuiderzeecollectie] Data-opnamecomponent"
-    id="id-87254cb80b9d4f8b9cc146c194484f6b"/>
+    id="id-87254cb80b9d4f8b9cc146c194484f6b"
+    documentation="Component die ingekomen data controleert op correctheid en volledigheid en de data uniformeert zodat deze geschikt is voor beheer."/>

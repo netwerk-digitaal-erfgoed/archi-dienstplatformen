@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Zuiderzeecollectie] Erfgoedinformatiepublicatiecomponent"
-    id="id-6f9fd0f24ea946c38cc6342d8a70ae39"/>
+    id="id-6f9fd0f24ea946c38cc6342d8a70ae39"
+    documentation="Component die verantwoordelijk is voor het leveren van (datasets van) informatieobjecten en de aan die informatieobjecten verbonden metadata in een voor de afnemer bruikbare vorm."/>

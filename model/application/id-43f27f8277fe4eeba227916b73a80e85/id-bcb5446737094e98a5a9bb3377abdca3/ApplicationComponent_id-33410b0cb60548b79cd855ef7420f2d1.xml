@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Zuiderzeecollectie] Informatieobjecten-beheersysteem"
-    id="id-33410b0cb60548b79cd855ef7420f2d1"/>
+    id="id-33410b0cb60548b79cd855ef7420f2d1"
+    documentation="Component die verantwoordelijk is voor het beheer van digitale informatieobjecten, inclusief de technische en administratieve metadata die nodig is om het informatieobject te kunnen beheren."/>

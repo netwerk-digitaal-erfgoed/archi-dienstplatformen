@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Driebit (ETL)"
-    id="id-9a6afda0f9ce4c058293a191daa01936"/>
+    id="id-9a6afda0f9ce4c058293a191daa01936"
+    documentation="Driebit heeft een pipe line ontwikkeld dat bestaat uit meerdere verwerkingsscripts om data dat opgehaald is uit bronsystemen om te zetten naar rdf en mappen naar een Driebit specifiek model. Dit gebeurt met in Erlang geschreven scripts."/>
