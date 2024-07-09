@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Zuiderzeecollectie] Adlib dataopnamepunt"
-    id="id-fd154738158f4f9992b8fb1ca5640bf5"
-    documentation="Component die fungeert als aanleverpunt voor erfgoedinformatie. Controleert of aangeleverde data (informatieobjecten + bijbehorende metadata) voldoet aan de eisen die de bronhouder stelt, en accepteert data die aan de voorwaarden voldoet voor verdere verwerking.&#xA;&#xA;In dit geval gaat het om de opname van een XML via een API uit Adlib"/>
