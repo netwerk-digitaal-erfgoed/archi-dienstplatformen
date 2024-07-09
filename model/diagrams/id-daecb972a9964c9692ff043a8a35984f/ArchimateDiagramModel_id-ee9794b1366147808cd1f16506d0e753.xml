@@ -423,6 +423,15 @@
             xsi:type="archimate:RealizationRelationship"
             href="RealizationRelationship_id-f4ef6e85a4bd450e8f1dc1ad0bea3c4b.xml#id-f4ef6e85a4bd450e8f1dc1ad0bea3c4b"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-5ac0036758224eb6bcc46a826f4bb0f1"
+          source="id-55407453a7dc4a9793ce3e45939a0513"
+          target="id-4ed910813af24d079bd80b6dbef52bcb">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-713c9174791d412381b407c4df7e61e4.xml#id-713c9174791d412381b407c4df7e61e4"/>
+      </sourceConnections>
       <bounds
           x="72"
           y="348"
@@ -672,7 +681,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4ed910813af24d079bd80b6dbef52bcb"
-        targetConnections="id-5bf25489232b4f6389f0db41f3ac5c71 id-28c56af11d0d4606ab5e805cdc40e81e">
+        targetConnections="id-5bf25489232b4f6389f0db41f3ac5c71 id-28c56af11d0d4606ab5e805cdc40e81e id-5ac0036758224eb6bcc46a826f4bb0f1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-ef269f730da446b09271fcf9da4a35e1"
@@ -690,6 +699,39 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-dd30556554ed4597b5a30f998ad3190b.xml#id-dd30556554ed4597b5a30f998ad3190b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-77aa44a9adc64c1ab6fdb13e8fa61573"
+        textAlignment="1"
+        content="Hoe past een annotatie architectuur in de DERA?">
+      <bounds
+          x="228"
+          y="1152"
+          width="185"
+          height="80"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-deaf28aa92b641d1b3d7ea873926363b"
+        textAlignment="1"
+        content="Heeft Leon de Datapreparatie scripts opengesteld?">
+      <bounds
+          x="678"
+          y="952"
+          width="185"
+          height="80"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-92469435cdcd43dbb416d9dde7b6e8aa"
+        textAlignment="1"
+        content="vormen de transformaties een bottleneck voor laadtijd?">
+      <bounds
+          x="703"
+          y="601"
+          width="185"
+          height="80"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
