@@ -265,7 +265,7 @@
     <bounds
         x="162"
         y="156"
-        width="660"
+        width="811"
         height="868"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -615,15 +615,6 @@
         fillColor="#e15e28">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d0990671c3b04941afa961700188566a"
-          source="id-a2128d6d00ed416a917271512c83db99"
-          target="id-e347d316e03d439f826fd56cf95c7b83">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-26724993266b4d128b98bc787578695f.xml#id-26724993266b4d128b98bc787578695f"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-09ff7c61e76640848655b63a29f81de6"
           source="id-a2128d6d00ed416a917271512c83db99"
           target="id-43c3a2f6e38044c89e7698aee2e4db39">
@@ -640,9 +631,18 @@
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-b23f792999f744e482f83c00fc35b6ca.xml#id-b23f792999f744e482f83c00fc35b6ca"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d0990671c3b04941afa961700188566a"
+          source="id-a2128d6d00ed416a917271512c83db99"
+          target="id-e347d316e03d439f826fd56cf95c7b83">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-26724993266b4d128b98bc787578695f.xml#id-26724993266b4d128b98bc787578695f"/>
+      </sourceConnections>
       <bounds
           x="335"
-          y="192"
+          y="204"
           width="208"
           height="55"/>
       <archimateElement
@@ -715,8 +715,8 @@
           href="SpecializationRelationship_id-9a52374fd7fe48f39732f9ffcef507e3.xml#id-9a52374fd7fe48f39732f9ffcef507e3"/>
     </sourceConnections>
     <bounds
-        x="1363"
-        y="349"
+        x="1069"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
