@@ -648,6 +648,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5ee8429adcfc4da486e41fd3d9e8f9a7"
         targetConnections="id-5295fb15999143618c5b00d5e1c90f0d"
+        font="1|Sans|9.0|1|GTK|1|"
         textAlignment="1"
         fillColor="#e0ffff">
       <sourceConnections
