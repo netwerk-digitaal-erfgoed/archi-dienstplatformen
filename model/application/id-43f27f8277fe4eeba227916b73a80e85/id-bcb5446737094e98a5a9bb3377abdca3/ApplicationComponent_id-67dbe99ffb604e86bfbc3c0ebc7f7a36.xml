@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Zuiderzeecollectie] dataopnamepunt"
+    name="[Zuiderzeecollectie] Dataopnamepunt"
     id="id-67dbe99ffb604e86bfbc3c0ebc7f7a36"
     documentation="Component die fungeert als aanleverpunt voor erfgoedinformatie. Controleert of aangeleverde data (informatieobjecten + bijbehorende metadata) voldoet aan de eisen die de bronhouder stelt, en accepteert data die aan de voorwaarden voldoet voor verdere verwerking.&#xA;&#xA;In dit geval gaat het om de opname van data uit een OAI-PMH endpoint vanuit Atlantis, Memorix en Axiell."/>
