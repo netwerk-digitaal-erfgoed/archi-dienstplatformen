@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Amsterdam Diaries] SPARQL Erfgoedinformatieleveringpunt"
+    name="[Amsterdam Diaries] Erfgoedinformatieleveringpunt"
     id="id-c06b71c4c63f4da58e391eb14d9b7a59"
-    documentation="Component die fungeert als ingang om erfgoedinformatie op te halen en te vinden, rekening houdend met eventuele toegangsbeperkingen. Er zijn twee soorten interfaces: H2M (human-to-machine) gebruikersinterfaces en M2M (machine-to-machine) applicatieinterfaces.&#xA;&#xA;Voorbeelden van erfgoedinformatieleveringspunten zijn: doelgroepgerichte apps, een website met catalogusinformatie, OAI-PMH endpoint, SPARQL-endpoint op een terminologiebron, et cetera."/>
+    documentation="SPARQL&#xA;&#xA;Component die fungeert als ingang om erfgoedinformatie op te halen en te vinden, rekening houdend met eventuele toegangsbeperkingen. Er zijn twee soorten interfaces: H2M (human-to-machine) gebruikersinterfaces en M2M (machine-to-machine) applicatieinterfaces.&#xA;&#xA;Voorbeelden van erfgoedinformatieleveringspunten zijn: doelgroepgerichte apps, een website met catalogusinformatie, OAI-PMH endpoint, SPARQL-endpoint op een terminologiebron, et cetera."/>

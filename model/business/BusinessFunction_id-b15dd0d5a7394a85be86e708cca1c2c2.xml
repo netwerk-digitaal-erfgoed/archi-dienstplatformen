@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheer (copy)"
+    id="id-b15dd0d5a7394a85be86e708cca1c2c2"
+    documentation="Het in stand houden van erfgoedinformatie en het verrijken daarvan met aanvullende informatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="beheer"/>
+  <properties
+      key="Type"
+      value="DERA-keten"/>
+</archimate:BusinessFunction>
