@@ -1,0 +1,12 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bronhouder"
+    id="id-552728abc0d044a3ac14de8ab5dccdc3"
+    documentation="Een bronhouder is eigenaar van en verantwoordelijk voor het beheer van minimaal één bron met erfgoedinformatie.">
+  <properties
+      key="Begrippenlijst"
+      value="Ja"/>
+  <properties
+      key="Spellingvarianten"
+      value="bronhouder, Bronhouders, bronhouders"/>
+</archimate:BusinessRole>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Erfgoedinformatiepublicatiecomponent"
+    id="id-537dc6d470d44e88b29c3e4ae6a31ab8"
+    documentation="Component die verantwoordelijk is voor het leveren van (datasets van) informatieobjecten en de aan die informatieobjecten verbonden metadata in een voor de afnemer bruikbare vorm."/>
