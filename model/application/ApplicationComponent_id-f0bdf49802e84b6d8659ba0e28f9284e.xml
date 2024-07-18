@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Amsterdam Diaries] Datapreparatiecomponent"
-    id="id-f0bdf49802e84b6d8659ba0e28f9284e"/>
+    id="id-f0bdf49802e84b6d8659ba0e28f9284e"
+    documentation="Data preparatie scripts voor data wrangling (hier in python) die data; omzet in een andere bruikbare format, verrijkt met bijv. annotaties en URI's, data samenvoegt tot een nieuwe dataset. oor Amsterdam Diaries gebeurt dit allemaal met python scripts."/>

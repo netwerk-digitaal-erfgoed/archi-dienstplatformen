@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Amsterdam Diaries] Informatieobjectenbeheersysteem"
     id="id-64fa2a3632054f16ad51ef5be4c51bda"
-    documentation="Triply neemt data op en past een eigen transform toe. Momenteel wordt onderzocht of dit ook de beste oplossing is."/>
+    documentation="Component die verantwoordelijk is voor het beheer van digitale informatieobjecten, inclusief de technische en administratieve metadata die nodig is om het informatieobject te kunnen beheren."/>
