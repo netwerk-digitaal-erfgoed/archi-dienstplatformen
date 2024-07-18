@@ -212,7 +212,7 @@
     </sourceConnections>
     <bounds
         x="292"
-        y="267"
+        y="264"
         width="861"
         height="802"/>
     <children
@@ -382,7 +382,19 @@
           x="456"
           y="684"
           width="241"
-          height="71"/>
+          height="109"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-1629a22679b840eea52305dc04fd4938">
+        <bounds
+            x="12"
+            y="48"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessActor"
+            href="BusinessActor_id-657c66a3abd940f49ad8d0009e681da3.xml#id-657c66a3abd940f49ad8d0009e681da3"/>
+      </children>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_id-4a6428462ada4d5bb9664abd618df14c.xml#id-4a6428462ada4d5bb9664abd618df14c"/>
