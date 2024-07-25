@@ -615,9 +615,9 @@
       fillColor="#f7d1c1">
     <bounds
         x="1734"
-        y="374"
+        y="312"
         width="1339"
-        height="211"/>
+        height="289"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-774101e2aef04b77a20127d68bafb3bc"
@@ -641,10 +641,10 @@
           source="id-774101e2aef04b77a20127d68bafb3bc"
           target="id-2d554f6a521b40c0b14b92588c5660c2">
         <bendpoints
-            startX="-12"
-            startY="-73"
-            endX="-605"
-            endY="-3"/>
+            startX="48"
+            startY="61"
+            endX="-545"
+            endY="24"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-68ae11e2a90c41afae036013866396d8.xml#id-68ae11e2a90c41afae036013866396d8"/>
@@ -708,7 +708,7 @@
       </sourceConnections>
       <bounds
           x="120"
-          y="72"
+          y="192"
           width="169"
           height="85"/>
       <archimateElement
@@ -864,17 +864,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-b7c15c6470724d0181662e21e9274426"
-      textAlignment="1"
-      content="Heeft Leon de Datapreparatie scripts opengesteld?">
-    <bounds
-        x="3576"
-        y="960"
-        width="185"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="id-cf5933c8d5f64b3b91e34f16366de828"
       textAlignment="1"
       content="vormen de transformaties een bottleneck voor laadtijd?">
@@ -906,7 +895,7 @@
         x="1591"
         y="374"
         width="132"
-        height="211"/>
+        height="121"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-6e04ffb224d74948b26a776a7883e2ca.xml#id-6e04ffb224d74948b26a776a7883e2ca"/>
@@ -920,9 +909,9 @@
       fillColor="#2a3ff1">
     <bounds
         x="1591"
-        y="615"
+        y="504"
         width="132"
-        height="574"/>
+        height="685"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-552728abc0d044a3ac14de8ab5dccdc3.xml#id-552728abc0d044a3ac14de8ab5dccdc3"/>
@@ -1316,7 +1305,7 @@
         x="3167"
         y="408"
         width="156"
-        height="55"/>
+        height="145"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-92b9c75d70a94989ad5cf8a5ce350ad2.xml#id-92b9c75d70a94989ad5cf8a5ce350ad2"/>

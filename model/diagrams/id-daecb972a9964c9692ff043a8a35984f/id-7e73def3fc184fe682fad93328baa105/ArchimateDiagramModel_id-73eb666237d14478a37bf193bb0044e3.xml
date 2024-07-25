@@ -753,15 +753,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3f15b980e8c34694a27b79a92a759ce1"
       targetConnections="id-4a0b0b4a9be84950b7f2e6c8adf79f3b">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f999f5e746044b2e9615dd4082b51c73"
-        source="id-3f15b980e8c34694a27b79a92a759ce1"
-        target="id-89d7baec65964bfe86c61d43f20866b3">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-e06d822ad1034870b9e6f21c23f27f6b.xml#id-e06d822ad1034870b9e6f21c23f27f6b"/>
-    </sourceConnections>
     <bounds
         x="1392"
         y="456"
@@ -774,7 +765,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-89d7baec65964bfe86c61d43f20866b3"
-      targetConnections="id-f999f5e746044b2e9615dd4082b51c73 id-bf7111817f7844bd8f775e9d85b7a64e id-991ae5cdf6d34eea9a0008813cd5f69e">
+      targetConnections="id-bf7111817f7844bd8f775e9d85b7a64e id-991ae5cdf6d34eea9a0008813cd5f69e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-bfdc879d4bd3424ab3b68425ac868249"
