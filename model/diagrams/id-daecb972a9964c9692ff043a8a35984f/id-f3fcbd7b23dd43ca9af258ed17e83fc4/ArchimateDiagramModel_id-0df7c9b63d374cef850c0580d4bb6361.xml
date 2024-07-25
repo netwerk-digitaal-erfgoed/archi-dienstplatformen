@@ -635,20 +635,6 @@
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-a9246464a72947d4a8d51f34648b3628.xml#id-a9246464a72947d4a8d51f34648b3628"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2543f0b17a3c48d0a7961d06a25f60e9"
-          source="id-774101e2aef04b77a20127d68bafb3bc"
-          target="id-2d554f6a521b40c0b14b92588c5660c2">
-        <bendpoints
-            startX="48"
-            startY="61"
-            endX="-545"
-            endY="24"/>
-        <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_id-68ae11e2a90c41afae036013866396d8.xml#id-68ae11e2a90c41afae036013866396d8"/>
-      </sourceConnections>
       <bounds
           x="828"
           y="96"
@@ -696,15 +682,6 @@
         <archimateRelationship
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_id-3aeac6b460d04abdb54a8b57b2355c5c.xml#id-3aeac6b460d04abdb54a8b57b2355c5c"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-7db881d8b9c84c36aca66b3b0097344f"
-          source="id-0b046aedaa5e4df5b6290184f8d2a513"
-          target="id-2d554f6a521b40c0b14b92588c5660c2">
-        <archimateRelationship
-            xsi:type="archimate:SpecializationRelationship"
-            href="SpecializationRelationship_id-2ecde68ee0c54801a2c120be7a48a563.xml#id-2ecde68ee0c54801a2c120be7a48a563"/>
       </sourceConnections>
       <bounds
           x="120"
@@ -1300,7 +1277,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2d554f6a521b40c0b14b92588c5660c2"
-      targetConnections="id-0ba82a98961d4972b9539102a366a1c1 id-c857ca3de8234a2bbd3f600dd81d9ce4 id-bf786862540c46dc99c8a5ab405b3724 id-7db881d8b9c84c36aca66b3b0097344f id-2543f0b17a3c48d0a7961d06a25f60e9">
+      targetConnections="id-0ba82a98961d4972b9539102a366a1c1 id-c857ca3de8234a2bbd3f600dd81d9ce4 id-bf786862540c46dc99c8a5ab405b3724">
     <bounds
         x="3167"
         y="408"
