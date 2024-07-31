@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Protégé"
-    id="id-c8b6922c4c8446019dd3f6480365d1be"/>
+    id="id-c8b6922c4c8446019dd3f6480365d1be">
+  <properties
+      key="url"
+      value="https://protege.stanford.edu/"/>
+</archimate:SystemSoftware>
