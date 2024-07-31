@@ -698,8 +698,8 @@
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-50acec2865384699b0ff7f76e4ceb518.xml#id-50acec2865384699b0ff7f76e4ceb518"/>
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-0bfb4574932f4a23b8d71425d95d3a6d.xml#id-0bfb4574932f4a23b8d71425d95d3a6d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
