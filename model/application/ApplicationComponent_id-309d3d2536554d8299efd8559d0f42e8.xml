@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestructureerd-databestand-opnamepunt"
+    name="Gestructureerd-formaat metadataopnamepunt"
     id="id-309d3d2536554d8299efd8559d0f42e8"
     documentation="Opnamepunt die gestructureerde databestanden in formaten zoals CSV, XML, JSON, etc. opneemt."/>

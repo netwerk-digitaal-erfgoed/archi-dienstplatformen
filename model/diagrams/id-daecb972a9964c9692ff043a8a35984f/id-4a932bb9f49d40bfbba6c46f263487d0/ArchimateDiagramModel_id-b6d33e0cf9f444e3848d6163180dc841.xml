@@ -632,7 +632,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6fd1d051657c4efe8f5d668ac48f4a33"
           source="id-63eebc71c6bf46f09b75f69cc770f98e"
-          target="id-112b75be26c34769bcf8e847c9389beb">
+          target="id-ce5cd7e7cc4c4de080886acf09114d1c">
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-2e080433fef847fea30f615dfc9feab3.xml#id-2e080433fef847fea30f615dfc9feab3"/>
@@ -1265,7 +1265,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-112b75be26c34769bcf8e847c9389beb"
-      targetConnections="id-6fd1d051657c4efe8f5d668ac48f4a33">
+      targetConnections="id-fca69eb65b6d4156847e192ac8d1afec">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2c83739d4caf4112a1900bb37abf7abc"
@@ -1276,8 +1276,8 @@
           href="AssignmentRelationship_id-9a3c8751-b9d7-4834-893a-8bec52d9157e.xml#id-9a3c8751-b9d7-4834-893a-8bec52d9157e"/>
     </sourceConnections>
     <bounds
-        x="1067"
-        y="732"
+        x="1320"
+        y="738"
         width="157"
         height="115"/>
     <children
@@ -1449,6 +1449,28 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_da415250-e50c-41bc-ac08-c6f543a278bb.xml#da415250-e50c-41bc-ac08-c6f543a278bb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ce5cd7e7cc4c4de080886acf09114d1c"
+      targetConnections="id-6fd1d051657c4efe8f5d668ac48f4a33">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-fca69eb65b6d4156847e192ac8d1afec"
+        source="id-ce5cd7e7cc4c4de080886acf09114d1c"
+        target="id-112b75be26c34769bcf8e847c9389beb">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-5505178f0c3140cf9e0675c116986b49.xml#id-5505178f0c3140cf9e0675c116986b49"/>
+    </sourceConnections>
+    <bounds
+        x="1104"
+        y="768"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-1ff3bf2b39d541ddbe61a546efb56ccb.xml#id-1ff3bf2b39d541ddbe61a546efb56ccb"/>
   </children>
   <properties
       key="ontology builder"/>
