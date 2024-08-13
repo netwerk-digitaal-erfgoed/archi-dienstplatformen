@@ -102,7 +102,7 @@
           href="SpecializationRelationship_id-746e2e5f05cd4ba7836071bf6995aca6.xml#id-746e2e5f05cd4ba7836071bf6995aca6"/>
     </sourceConnections>
     <bounds
-        x="863"
+        x="757"
         y="594"
         width="120"
         height="55"/>
@@ -133,7 +133,7 @@
           href="SpecializationRelationship_id-5505178f0c3140cf9e0675c116986b49.xml#id-5505178f0c3140cf9e0675c116986b49"/>
     </sourceConnections>
     <bounds
-        x="180"
+        x="96"
         y="72"
         width="120"
         height="55"/>
@@ -228,7 +228,7 @@
           href="SpecializationRelationship_id-55509d9130054202b8c042dda3062ffa.xml#id-55509d9130054202b8c042dda3062ffa"/>
     </sourceConnections>
     <bounds
-        x="1044"
+        x="961"
         y="438"
         width="133"
         height="55"/>
@@ -277,7 +277,7 @@
           href="SpecializationRelationship_id-ae9724a00f1f45e3a6e9109d701cc35b.xml#id-ae9724a00f1f45e3a6e9109d701cc35b"/>
     </sourceConnections>
     <bounds
-        x="1188"
+        x="1105"
         y="438"
         width="132"
         height="55"/>
@@ -331,7 +331,7 @@
           href="SpecializationRelationship_id-cc4146fa97954ff090f7940773c9e5e4.xml#id-cc4146fa97954ff090f7940773c9e5e4"/>
     </sourceConnections>
     <bounds
-        x="1393"
+        x="1310"
         y="216"
         width="120"
         height="55"/>
@@ -363,7 +363,7 @@
           href="SpecializationRelationship_id-8ef58e7a97c648b8a4b1470ed4467d98.xml#id-8ef58e7a97c648b8a4b1470ed4467d98"/>
     </sourceConnections>
     <bounds
-        x="984"
+        x="901"
         y="594"
         width="120"
         height="55"/>
@@ -395,7 +395,7 @@
           href="SpecializationRelationship_id-9714b95e452d4636baff21572a5633fb.xml#id-9714b95e452d4636baff21572a5633fb"/>
     </sourceConnections>
     <bounds
-        x="1332"
+        x="1249"
         y="438"
         width="132"
         height="55"/>
@@ -413,13 +413,13 @@
         source="id-a58c76d272b942b4867964fecda23741"
         target="id-6e82f2b4e2f6425a9c4410878ea01dd3">
       <bendpoints
-          startY="-87"
-          endX="-102"
-          endY="93"/>
+          startY="-74"
+          endX="-221"
+          endY="82"/>
       <bendpoints
-          startX="204"
-          startY="-86"
-          endX="-70"
+          startX="168"
+          startY="-74"
+          endX="-53"
           endY="82"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
@@ -435,7 +435,7 @@
           href="FlowRelationship_id-b1e78d071f404a63bc50fae2f2ff6ced.xml#id-b1e78d071f404a63bc50fae2f2ff6ced"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="876"
         y="36"
         width="145"
         height="55"/>
@@ -453,9 +453,9 @@
         source="id-6e82f2b4e2f6425a9c4410878ea01dd3"
         target="id-85bc1188d8474f95abb8be13ab5023e8">
       <bendpoints
-          startX="-1354"
-          startY="34"
-          endX="-17"
+          startX="-1289"
+          startY="22"
+          endX="-29"
           endY="-284"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
@@ -467,15 +467,10 @@
         source="id-6e82f2b4e2f6425a9c4410878ea01dd3"
         target="id-89f6518d59d24a4c8197339dfbac2b99">
       <bendpoints
-          startX="-1582"
-          startY="-2"
+          startX="-1505"
+          startY="-14"
           endX="8"
           endY="-320"/>
-      <bendpoints
-          startX="-1582"
-          startY="94"
-          endX="8"
-          endY="-224"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-0aa9c28d05d24fcbbf7301a0190e38b5.xml#id-0aa9c28d05d24fcbbf7301a0190e38b5"/>
@@ -490,8 +485,8 @@
           href="FlowRelationship_id-0aa9c28d05d24fcbbf7301a0190e38b5.xml#id-0aa9c28d05d24fcbbf7301a0190e38b5"/>
     </sourceConnections>
     <bounds
-        x="1157"
-        y="-132"
+        x="1080"
+        y="-120"
         width="181"
         height="55"/>
     <archimateElement
@@ -508,21 +503,20 @@
         source="id-3172b83d09e94c188a804cc7d8c3f0b5"
         target="id-6e82f2b4e2f6425a9c4410878ea01dd3">
       <bendpoints
-          startX="-12"
           startY="-98"
-          endX="194"
-          endY="94"/>
+          endX="199"
+          endY="82"/>
       <bendpoints
-          startX="-156"
+          startX="-144"
           startY="-98"
-          endX="50"
-          endY="94"/>
+          endX="55"
+          endY="82"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_id-9a52374fd7fe48f39732f9ffcef507e3.xml#id-9a52374fd7fe48f39732f9ffcef507e3"/>
     </sourceConnections>
     <bounds
-        x="1380"
+        x="1297"
         y="60"
         width="145"
         height="55"/>
@@ -555,7 +549,7 @@
           href="SpecializationRelationship_id-81339991c70c4be0a37733f229c24c82.xml#id-81339991c70c4be0a37733f229c24c82"/>
     </sourceConnections>
     <bounds
-        x="900"
+        x="817"
         y="438"
         width="133"
         height="55"/>
@@ -572,13 +566,18 @@
         id="id-2a246fb3238744c5997192d0359f9ffc"
         source="id-ceb743e8226e436ea5f25b38fc3974dd"
         target="id-a58c76d272b942b4867964fecda23741">
+      <bendpoints
+          startX="55"
+          startY="-134"
+          endX="-168"
+          endY="10"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-1d76742dd6ef41d684e9fa309628bd6f.xml#id-1d76742dd6ef41d684e9fa309628bd6f"/>
     </sourceConnections>
     <bounds
-        x="768"
-        y="168"
+        x="672"
+        y="180"
         width="157"
         height="55"/>
     <archimateElement
@@ -600,7 +599,7 @@
           href="SpecializationRelationship_id-0aa30b1ce1854085b74cf4abbbba9d6b.xml#id-0aa30b1ce1854085b74cf4abbbba9d6b"/>
     </sourceConnections>
     <bounds
-        x="1175"
+        x="1092"
         y="168"
         width="145"
         height="55"/>
@@ -706,8 +705,8 @@
           href="FlowRelationship_id-da79ec3f06784f4f8b9fca1a51382d46.xml#id-da79ec3f06784f4f8b9fca1a51382d46"/>
     </sourceConnections>
     <bounds
-        x="516"
-        y="336"
+        x="444"
+        y="348"
         width="169"
         height="85"/>
     <children
@@ -764,10 +763,10 @@
         source="id-87813081d7c4421db78c4b4d771a1cd9"
         target="id-b3730ac062d44dd0b000d1a7427a23b2">
       <bendpoints
-          startX="211"
-          startY="-12"
+          startX="223"
+          startY="12"
           endX="-60"
-          endY="58"/>
+          endY="70"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-fe181f403e8d46dba67de5a2578e4c03.xml#id-fe181f403e8d46dba67de5a2578e4c03"/>
@@ -778,21 +777,21 @@
         source="id-87813081d7c4421db78c4b4d771a1cd9"
         target="id-ceb743e8226e436ea5f25b38fc3974dd">
       <bendpoints
-          startX="30"
-          startY="-168"
-          endX="-474"
-          endY="-99"/>
+          startX="31"
+          startY="-144"
+          endX="-485"
+          endY="-86"/>
       <bendpoints
-          startX="498"
-          startY="-168"
-          endX="-6"
-          endY="-99"/>
+          startX="523"
+          startY="-144"
+          endX="7"
+          endY="-86"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-8ea57043a89640098dac6773ae40484e.xml#id-8ea57043a89640098dac6773ae40484e"/>
     </sourceConnections>
     <bounds
-        x="240"
+        x="156"
         y="180"
         width="205"
         height="169"/>
@@ -857,17 +856,13 @@
         id="id-023751cb77f44d54944a946e0ad738a2"
         source="id-b3730ac062d44dd0b000d1a7427a23b2"
         target="id-87813081d7c4421db78c4b4d771a1cd9">
-      <bendpoints
-          startX="-144"
-          startY="-15"
-          endX="175"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-8b9e02de2b8242f487b0180ad9adc074.xml#id-8b9e02de2b8242f487b0180ad9adc074"/>
     </sourceConnections>
     <bounds
-        x="528"
-        y="168"
+        x="456"
+        y="180"
         width="169"
         height="55"/>
     <archimateElement
@@ -888,8 +883,8 @@
           href="SpecializationRelationship_id-6f912435d9a14699aaeec84e63937e39.xml#id-6f912435d9a14699aaeec84e63937e39"/>
     </sourceConnections>
     <bounds
-        x="516"
-        y="468"
+        x="444"
+        y="480"
         width="169"
         height="55"/>
     <archimateElement
@@ -910,8 +905,8 @@
           href="SpecializationRelationship_id-f86e22b36dcc40dfbf02a847ec0d8b64.xml#id-f86e22b36dcc40dfbf02a847ec0d8b64"/>
     </sourceConnections>
     <bounds
-        x="958"
-        y="222"
+        x="864"
+        y="168"
         width="158"
         height="55"/>
     <archimateElement
@@ -941,7 +936,7 @@
           href="AssignmentRelationship_id-9a3c8751-b9d7-4834-893a-8bec52d9157e.xml#id-9a3c8751-b9d7-4834-893a-8bec52d9157e"/>
     </sourceConnections>
     <bounds
-        x="120"
+        x="36"
         y="-48"
         width="277"
         height="73"/>
@@ -989,7 +984,7 @@
           href="FlowRelationship_id-e6789eef7a2f433daa6b228a9c4b331c.xml#id-e6789eef7a2f433daa6b228a9c4b331c"/>
     </sourceConnections>
     <bounds
-        x="1512"
+        x="1429"
         y="-12"
         width="120"
         height="55"/>
@@ -1011,7 +1006,7 @@
           href="FlowRelationship_id-a7e244fa255f490a8e506f6b6bb7b901.xml#id-a7e244fa255f490a8e506f6b6bb7b901"/>
     </sourceConnections>
     <bounds
-        x="1476"
+        x="1393"
         y="-114"
         width="204"
         height="55"/>

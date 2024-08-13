@@ -303,7 +303,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-487aec4f52f0475aba0cdf073f72e050"
-        targetConnections="id-2e42f3a113bc4ccea9dc55b5c91fabd8 id-5255cf4a22754a9b888bc66c9053bf2d id-45362d1c4b534062ba3be3f5ea2681df"
+        targetConnections="id-2e42f3a113bc4ccea9dc55b5c91fabd8 id-45362d1c4b534062ba3be3f5ea2681df id-5255cf4a22754a9b888bc66c9053bf2d"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         fontColor="#000000"
         lineColor="#5c5c5c"

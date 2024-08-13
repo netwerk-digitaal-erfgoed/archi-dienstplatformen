@@ -535,6 +535,15 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3af3260d1c504ee191fd09dcc37c5b62"
+        source="id-940cef268c0b430a8e9d255ec80d9ecf"
+        target="id-3291cad5e97f4b739ee22e45a1903d20">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-04eabbb3ea944418af9756e3509a59c2.xml#id-04eabbb3ea944418af9756e3509a59c2"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c6dd64386d25494bb57d75fcb88078bc"
         font="1|Segoe UI|9.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Segoe UI"
         fontColor="#000000"
@@ -544,15 +553,6 @@
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-8ea57043a89640098dac6773ae40484e.xml#id-8ea57043a89640098dac6773ae40484e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3af3260d1c504ee191fd09dcc37c5b62"
-        source="id-940cef268c0b430a8e9d255ec80d9ecf"
-        target="id-3291cad5e97f4b739ee22e45a1903d20">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-04eabbb3ea944418af9756e3509a59c2.xml#id-04eabbb3ea944418af9756e3509a59c2"/>
     </sourceConnections>
     <bounds
         x="624"
