@@ -141,7 +141,7 @@
       id="id-151de9ff8c214cce8d7f9d525d3a3d63"
       targetConnections="id-182e198e810749adb146b7721b07cf24 id-295a2228837447b9a3027433b7802d56 id-35bde8c72ea1410bad695b7f97d14876">
     <bounds
-        x="50"
+        x="39"
         y="1680"
         width="143"
         height="55"/>
@@ -272,9 +272,9 @@
           href="CompositionRelationship_id-1497b03daaf847ca80af5fb344334571.xml#id-1497b03daaf847ca80af5fb344334571"/>
     </sourceConnections>
     <bounds
-        x="204"
+        x="192"
         y="1212"
-        width="961"
+        width="973"
         height="597"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -290,7 +290,7 @@
             href="FlowRelationship_id-dfb3761e12d847789b19c0190326d636.xml#id-dfb3761e12d847789b19c0190326d636"/>
       </sourceConnections>
       <bounds
-          x="348"
+          x="360"
           y="516"
           width="180"
           height="55"/>
@@ -312,7 +312,7 @@
             href="FlowRelationship_id-bc7c8b829b564b31a7576a9d2955af0a.xml#id-bc7c8b829b564b31a7576a9d2955af0a"/>
       </sourceConnections>
       <bounds
-          x="417"
+          x="429"
           y="408"
           width="169"
           height="73"/>
@@ -477,7 +477,7 @@
         id="id-9559b1e24b4a4bd4a1ae21f4e17ed0db"
         targetConnections="id-1d0d0942c224457d873f15ed4e8fb5fa id-c5842a6226114162a406216673939ed7">
       <bounds
-          x="516"
+          x="528"
           y="343"
           width="193"
           height="55"/>
@@ -504,7 +504,7 @@
             href="FlowRelationship_id-505e042cf073402aa430457d672c1156.xml#id-505e042cf073402aa430457d672c1156"/>
       </sourceConnections>
       <bounds
-          x="246"
+          x="258"
           y="342"
           width="157"
           height="57"/>
@@ -554,7 +554,7 @@
             href="FlowRelationship_id-558b77c3b88247ada65e0b8b0be68db6.xml#id-558b77c3b88247ada65e0b8b0be68db6"/>
       </sourceConnections>
       <bounds
-          x="400"
+          x="412"
           y="156"
           width="193"
           height="55"/>
@@ -585,7 +585,7 @@
             href="FlowRelationship_id-3f11c2d6442641c4953be6240e94daab.xml#id-3f11c2d6442641c4953be6240e94daab"/>
       </sourceConnections>
       <bounds
-          x="414"
+          x="426"
           y="276"
           width="176"
           height="55"/>
@@ -598,7 +598,7 @@
         id="id-e28947809d014c048744987d6fa1cc94"
         targetConnections="id-0ab3d4740574436685506706ba0719df id-ace0310320ae428ab8d4126567a6928e id-eefd2c1bf2854ebbb454d6bb9109a79a">
       <bounds
-          x="223"
+          x="235"
           y="197"
           width="139"
           height="55"/>
@@ -620,7 +620,7 @@
             href="FlowRelationship_id-43b2d73c7fd04fe3a62e9420c559884e.xml#id-43b2d73c7fd04fe3a62e9420c559884e"/>
       </sourceConnections>
       <bounds
-          x="672"
+          x="684"
           y="240"
           width="159"
           height="55"/>
@@ -642,7 +642,7 @@
             href="FlowRelationship_id-5e8ef5433b15446db72265029c4a07f6.xml#id-5e8ef5433b15446db72265029c4a07f6"/>
       </sourceConnections>
       <bounds
-          x="672"
+          x="684"
           y="24"
           width="181"
           height="55"/>
@@ -664,7 +664,7 @@
             href="FlowRelationship_id-98680265db714ebb953cfaae13359a4d.xml#id-98680265db714ebb953cfaae13359a4d"/>
       </sourceConnections>
       <bounds
-          x="728"
+          x="740"
           y="108"
           width="210"
           height="55"/>
@@ -695,7 +695,7 @@
             href="FlowRelationship_id-e3dc065948a546cca085c46a03fea119.xml#id-e3dc065948a546cca085c46a03fea119"/>
       </sourceConnections>
       <bounds
-          x="792"
+          x="804"
           y="312"
           width="157"
           height="55"/>
@@ -930,10 +930,10 @@
           source="id-19e7ffa8f1cd4257b61eee6f381d1acd"
           target="id-76475ccd0a6f4498af38f27cad2237f1">
         <bendpoints
-            startX="83"
+            startX="71"
             startY="-105"
-            endX="-479"
-            endY="104"/>
+            endX="-409"
+            endY="105"/>
         <bendpoints
             startX="515"
             startY="-105"
