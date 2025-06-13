@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Amsterdam Diaries] Metadatabeheersysteem"
-    id="id-9a05cb71ed4845f0a5ad6214b33609fb"
-    documentation="Component die verantwoordelijk is voor het beheer van beschrijvende, structurele en administratieve metadata die nodig is voor, onder andere:&#xA;* het identificeren en vinden van objecten;&#xA;* het leggen van relaties tussen individuele objecten die gezamenlijk een eenheid vormen;&#xA;* het vastleggen van de relaties naar de beschreven objecten;&#xA;* het (stellen van eisen aan het) gebruik van objecten."/>

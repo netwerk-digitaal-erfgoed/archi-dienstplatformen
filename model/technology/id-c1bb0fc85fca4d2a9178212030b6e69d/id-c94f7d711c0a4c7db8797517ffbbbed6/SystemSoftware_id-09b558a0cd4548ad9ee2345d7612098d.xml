@@ -1,9 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Amsterdam Diaries] TriplyDB"
-    id="id-09b558a0cd4548ad9ee2345d7612098d"
-    documentation="https://druid.datalegend.net/AdamNet/-/overview">
-  <properties
-      key="url"
-      value="https://druid.datalegend.net/AdamNet/-/overview"/>
-</archimate:SystemSoftware>

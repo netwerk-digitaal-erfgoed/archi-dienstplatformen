@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Amsterdam Diaries] Transformatie-component"
-    id="id-6101b59cc27045fba6668c1661adf0d5"
-    documentation="Triply neemt data op en past een eigen transform toe. Momenteel wordt onderzocht of dit ook de beste oplossing is."/>

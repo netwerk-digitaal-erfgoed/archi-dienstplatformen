@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Amsterdam Diaries] Data-opnamecomponent"
-    id="id-ea70cbcc42b640b6befaf32cb71ef3f5"
-    documentation="Component die ingekomen data controleert op correctheid en volledigheid en de data uniformeert zodat deze geschikt is voor beheer."/>

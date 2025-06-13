@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Amsterdam Diaries] Metadataopnamepunt Verijking"
-    id="id-66d881c74e4f4078b00ae8ef305694d7"
-    documentation="Component die fungeert als aanleverpunt voor metadata uit externe bronnen. De aangeleverde meta data wordt geïntegreerd met andere metadata door de metadataintegratiecomponent."/>

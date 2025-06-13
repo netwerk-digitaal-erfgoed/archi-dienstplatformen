@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Zuiderzeecollectie] xml metadataopnamepunt"
-    id="id-27eaf697733a4f4ea0988bead19f38d2"
-    documentation="Component die fungeert als aanleverpunt voor erfgoedinformatie. Controleert of aangeleverde data (informatieobjecten + bijbehorende metadata) voldoet aan de eisen die de bronhouder stelt, en accepteert data die aan de voorwaarden voldoet voor verdere verwerking.&#xA;&#xA;In dit geval gaat het om de opname van een XML exportbestand vanuit Zijper Collectiebeheersysteem">
-  <properties
-      key="Archimate-model"
-      value="DERA 5.0 ist-model"/>
-</archimate:ApplicationComponent>

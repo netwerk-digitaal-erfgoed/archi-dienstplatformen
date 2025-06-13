@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Amsterdam Diaries] Dataopnamepunt brondata"
+    name="[Amsterdam Diaries] Dataopnamepunt JPEG"
     id="id-204c029307e14e30807d9087033b3f36"
     documentation="Component die fungeert als aanleverpunt voor erfgoedinformatie. Controleert of aangeleverde data (informatieobjecten + bijbehorende metadata) voldoet aan de eisen die de bronhouder stelt, en accepteert data die aan de voorwaarden voldoet voor verdere verwerking."/>
